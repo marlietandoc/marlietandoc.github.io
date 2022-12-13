@@ -17,7 +17,7 @@ content:
 
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
+  email: tandoc@sas.upenn.edu
 
 
 design:
