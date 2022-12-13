@@ -79,4 +79,7 @@ highlight_name: true
 
 Hi! I'm a PhD candidate in Psychology at the University of Pennsylvania with 6+ years of mixed methods research on human behavior and decision-making. I work in the Penn Computational Cognitive Neuroscience lab where we integrate behavioral experiments, neuroimaging, and neural network modelling to understand how humans learn. I am currently seeking an internship in Summer 2023 where I can grow as a researcher, translate my quanitiative and qualitative research kills to provide data-driven insights on real problems.
 
-{{< icon name="download" pack="fas" >}} You can download my most up-to-date resume here {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Learning and thinking doesn't always come easy. What factors affect this?
+How does the time of day affect what we learn? How does indoor air quality, C02 and, eseential oils? How about sleep quality?
+
+{{< icon name="download" pack="fas" >}} Here's my most up-to-date{{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
