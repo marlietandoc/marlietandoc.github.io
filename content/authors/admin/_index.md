@@ -22,8 +22,8 @@ bio: Researcher, psychologist, neuroscientist
 
 # Interests to show in About widget
 interests:
-  - How do humans think
-  - Computational Linguistics
+  - What factors affect how humans think 
+  - How are memories based by our pasts?
   - Information Retrieval
 
 # Education to show in About widget
@@ -77,6 +77,6 @@ email: ''
 highlight_name: true
 ---
 
-Hi! I'm a PhD candidate.
+Hi! I'm a PhD candidate in Psychology at the University of Pennsylvania with 6+ years of mixed methods research on human behavior and decision-making. I work in the Penn Computational Cognitive Neuroscience lab where we integrate behavioral experiments, neuroimaging, and neural network modelling to understand how humans learn. I am currently seeking an internship in Summer 2023 where I can grow as a researcher, translate my quanitiative and qualitative research kills to provide data-driven insights on real problems.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} You can download my most up-to-date resume here {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
