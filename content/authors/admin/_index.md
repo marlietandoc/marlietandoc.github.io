@@ -10,12 +10,12 @@ last_name: Tandoc
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate, Researcher, Psychologist, Neuroscientist
+role: PhD Candidate,         Researcher, Psychologist, Neuroscientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: University of Pennsylvania
-    url: https://www.stanford.edu/
+    url: https://www.upenn.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: Researcher, psychologist, neuroscientist
@@ -76,10 +76,15 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+WEBSITE IN PROGRESS!
 
-Hi! I'm a PhD candidate in Psychology at the University of Pennsylvania with 6+ years of mixed methods research on human behavior and decision-making. I work in the Penn Computational Cognitive Neuroscience lab where we integrate behavioral experiments, neuroimaging, and neural network modelling to understand how humans learn. I am currently seeking an internship in Summer 2023 where I can grow as a researcher, translate my quanitiative and qualitative research kills to provide data-driven insights on real problems.
+Hi! I have 6+ years of mixed methods research on human behavior and decision-making. I work in the Penn Computational Cognitive Neuroscience lab where we integrate behavioral studies, neuroimaging, and neural networks to understand how humans learn. 
 
-Learning and thinking doesn't always come easy. What factors affect this?
-How does the time of day affect what we learn? How does indoor air quality, C02 and, eseential oils? How about sleep quality?
+I am currently seeking an internship in Summer 2023 where I can grow as a researcher, translate my quanitiative and qualitative research skills to provide data-driven insights on real problems.
+
+Learning things doesn't always come easy. What factors affect this?
+How does the time of day affect what we learn? How does indoor air quality, C02 and, eseential oils? How about sleep quality? Maybe it's something about the user interface? Or the order in which w counter information.
+
+On the other hand the human brain is amazing at learning, especially in generalizing to things we have never seen before. I am currently testing how the brain solves problems that AI face, such as overfitting.
 
 {{< icon name="download" pack="fas" >}} Here's my most up-to-date{{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
