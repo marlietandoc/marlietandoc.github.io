@@ -31,7 +31,7 @@ education:
   courses:
     - course: PhD in Psychology
       institution: University of Pennsylvania
-      year: 2024 (expected)
+      year: May 2024 (Expected)
     - course: MA in Psychology
       institution: University of Pennsylvania
       year: 2020
