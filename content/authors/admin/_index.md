@@ -10,7 +10,7 @@ last_name: Tandoc
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate,         Researcher, Cognitive Psychologist
+role: PhD Candidate,         Researcher, psychologist, neuroscientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -25,7 +25,7 @@ interests:
   - Quantitative and qualitative research
   - Data wrangling, analysis, visualizaiton
   - Transforming data into shareable stories
-  - Understanding how people learn, think and make decisions
+  - Understanding how people think and make decisions
 
 # Education to show in About widget
 education:
@@ -77,8 +77,8 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-For 6+ years, I have led collaborative research on <strong> human behavior, cognition, and decision-making. </strong> I currently work in the Computational Cognitive Neuroscience lab at UPenn where we work as a team to create harmonies with behavioral experiments, neuroimaging, and machine learning to better understand how people think, learn, and remember.
+For 6+ years, I have led collaborative research on <strong> human behavior and cognition. </strong> I currently work in the Computational Cognitive Neuroscience lab at UPenn where w create harmonies with behavioral experiments, neuroimaging, and machine learning to better understand how people think, learn, and remember.
 
  I am currently seeking an internship I can grow as a researcher, apply my research craft, and solve problems with a team.
 
-{{< icon name="download" pack="fas" >}} You can find my resume {{< staticref "uploads/demo_resume.pdf" "newtab" >}}here{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} You can find my up-to-date resume {{< staticref "uploads/demo_resume.pdf" "newtab" >}}here{{< /staticref >}}.
