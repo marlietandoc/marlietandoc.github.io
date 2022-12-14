@@ -77,10 +77,8 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-For 6+ years, I have led collaborative research on <strong> human behavior, cognition, and decision-making. </strong> I currently work in the Computational Cognitive Neuroscience lab at UPenn where we create harmonies with behavioral experiments, neuroimaging, and machine learning to better understand how people think, learn, and remember.
+For 6+ years, I have led collaborative research on <strong> human behavior, cognition, and decision-making. </strong> I currently work in the Computational Cognitive Neuroscience lab at UPenn where we work as a team to create harmonies with behavioral experiments, neuroimaging, and machine learning to better understand how people think, learn, and remember.
 
-I love the research process from start-to-finish and have enjoyed translating my research skills to solve a diverse range of questions. I particularly thrive when working with a team to solve problems — from bouncing around ideas, to creating concrete research plans, to sharing findings with others. I am currently seeking an internship I can grow as a researcher, apply my research craft, and deliever high impact solutions.
-
-Over the years, I have presented scientific ideas and research to a variety of audiences: From interdisciplinary collaborators, to industry professionals, to profressors, to young children (aged 7-16), to college students.
+ I am currently seeking an internship I can grow as a researcher, apply my research craft to new problems, and deliever high impact solutions.
 
 {{< icon name="download" pack="fas" >}} You can find my resume {{< staticref "uploads/demo_resume.pdf" "newtab" >}}here{{< /staticref >}}.
