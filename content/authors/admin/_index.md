@@ -76,10 +76,9 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-WEBSITE IN PROGRESS!
+ 6+ years of mixed methods research on human behavior, cognitive science, and decision-making. I currently work in the Penn Computational Cognitive Neuroscience lab where we integrate behavioral studies, neuroimaging, and neural networks to understand how people and make predictions about how people learn and remember. I am seeking an internship in research/UX research/data science in Summer 2023.
 
- I have 6+ years of mixed methods research on human behavior, cognitive science, and decision-making. I currently work in the Penn Computational Cognitive Neuroscience lab where we integrate behavioral studies, neuroimaging, and neural networks to understand how people and make predictions about how people learn and remember. I am seeking an internship in research/UX research/data science in Summer 2023.
+Learning doesn't always come easy. What factors help or hurt learning?
 
-Learning doesn't always come easy. What factors impact learning and attention?
 
 {{< icon name="download" pack="fas" >}} Here's my most up-to-date{{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
