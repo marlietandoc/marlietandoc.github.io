@@ -156,7 +156,7 @@ console.log('code block');
 &lt;p>Wowchemy supports the popular &lt;a href="https://plot.ly/" target="_blank" rel="noopener">Plotly&lt;/a> format for interactive charts.&lt;/p>
 &lt;p>Save your Plotly JSON in your page folder, for example &lt;code>line-chart.json&lt;/code>, and then add the &lt;code>{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code> shortcode where you would like the chart to appear.&lt;/p>
 &lt;p>Demo:&lt;/p>
-&lt;div id="chart-147938652" class="chart">&lt;/div>
+&lt;div id="chart-189734562" class="chart">&lt;/div>
 &lt;script>
 (function() {
 let a = setInterval( function() {
@@ -165,7 +165,7 @@ return;
 }
 clearInterval( a );
 Plotly.d3.json("./line-chart.json", function(chart) {
-Plotly.plot('chart-147938652', chart.data, chart.layout, {responsive: true});
+Plotly.plot('chart-189734562', chart.data, chart.layout, {responsive: true});
 });
 }, 500 );
 })();
@@ -529,7 +529,7 @@ data-background-image="/media/boards.jpg"
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;hr>
 &lt;h1 id="questions">Questions?&lt;/h1>
 &lt;p>&lt;a href="https://discord.gg/z8wNYzb" target="_blank" rel="noopener">Ask&lt;/a>&lt;/p>
-&lt;p>&lt;a href="https://wowchemy.com/docs/content/slides/" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/p></description></item><item><title>External Project2222</title><link>https://marlietandoc.github.io/project/external-project/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://marlietandoc.github.io/project/external-project/</guid><description/></item><item><title>An example journal article</title><link>https://marlietandoc.github.io/publication/journal-article/</link><pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate><guid>https://marlietandoc.github.io/publication/journal-article/</guid><description>&lt;div class="alert alert-note">
+&lt;p>&lt;a href="https://wowchemy.com/docs/content/slides/" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/p></description></item><item><title>Impacts of indoor air quality on cognitive performance</title><link>https://marlietandoc.github.io/project/external-project/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://marlietandoc.github.io/project/external-project/</guid><description/></item><item><title>An example journal article</title><link>https://marlietandoc.github.io/publication/journal-article/</link><pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate><guid>https://marlietandoc.github.io/publication/journal-article/</guid><description>&lt;div class="alert alert-note">
 &lt;div>
 Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 &lt;/div>
