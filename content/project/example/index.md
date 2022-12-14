@@ -15,13 +15,11 @@ image:
 
 links:
 links:
- - name: Paper
-   url: https://psyarxiv.com/aqw28
  - name: Recent Slides
-   url: 'content/project/example/tandoc_sfn_2022_website.pdf'
+   url: 'project/example/tandoc_sfn_2022_website.pdf'
 url_code: ''
 url_pdf: ''
-url_slides: 'tandoc_sfn_2022_website.pdf'
+url_slides: ''
 url_video: 'https://www.youtube.com/watch?v=GUU7jgyh9VQ'
 
 # Slides (optional).
