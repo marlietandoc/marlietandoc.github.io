@@ -3,7 +3,7 @@ title: Memory biases in humans, brains, and machines
 summary: Our memories are not like rewatching a movie. Instead, our memories are prone to biases and distortions, such as misremembering stereotypes.. In this project (my dissertation work), we examine how different kinds of memories are more-or-less susceptible to these biases. We find convergent evidence in both human memory representations and in a brain-inspired neural network.
 tags:
   - Research
-date: '2020-04-27T00:00:00Z'
+date: '2022-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
