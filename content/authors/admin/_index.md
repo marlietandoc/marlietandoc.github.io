@@ -76,9 +76,10 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-For 6+ years, I have led start-to-finish research on human behavior, cognition, and decision-making. I currently work in the Computational Cognitive Neuroscience lab at UPenn where we integrate behavioral studies, neuroimaging, and machine learning to understand how people people optimally learn, remember, and make decisions. I am seeking an internship in research/UX research/data science in Summer 2023.
+For 6+ years, I have led start-to-finish research on human behavior, cognition, and decision-making. I currently work in the Computational Cognitive Neuroscience lab at UPenn where we integrate behavioral studies, neuroimaging, and machine learning to understand how people think and learn.
 
-Learning doesn't always come easy. We all have moments where it feels harder to pay attention, absorb anything and make optimal decisions. I study the factors that help or hurt learning. How does the time of day and sleep quality affect learning? What about multi-tasking ? How about CO2 levels in the air or even lemon essential oils?
+Learning doesn't always come easy. We all have moments where it feels harder to pay attention and make optimal decisions. I study a range of factors that help or hurt learning. How does the time of day and sleep quality affect learning? What about multi-tasking ? How about CO2 levels in the air or even lemon essential oils?
+
 
 
 {{< icon name="download" pack="fas" >}} Here's the most up-to-date version of my resume{{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
