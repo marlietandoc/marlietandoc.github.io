@@ -14,10 +14,13 @@ image:
   focal_point: Smart
 
 links:
-url_code: 'https://wowchemy.com/docs/page-builder/'
+links:
+ - name: Paper
+   url: https://psyarxiv.com/aqw28
+url_code: ''
 url_pdf: ''
-url_slides: ''
-url_video: ''
+url_slides: 'tandoc_sfn_2022_website.pdf'
+url_video: 'https://www.youtube.com/watch?v=GUU7jgyh9VQ'
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
