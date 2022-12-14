@@ -32,7 +32,7 @@ publication_short:
 abstract: Across two experiments we show that learning in childhood is fundamentally different from learning in adulthood. For adults, learning suffers when their attention is divided. For children, remarkably, learning is the same regardless of whether their attention is divided or not. And while children’s learning is expectedly worse than adults’ when attention is undivided, children learn just as well as adults—and sometimes even better—when attention is divided. These results suggest that a “sponge” may indeed be a good metaphor for learning during childhood. Children appear to take things in regardless of whether they are trying to or not. 
 
 # Summary. An optional shortened abstract.
-summary:  Us adults are quite good at selectively ignoring things that are not important for our current goal. But, we find evidence that kids take things in regardless of whether they are trying to or not - and sometimes they learn better than adults do.
+summary:  Us adults are quite good at selectively ignoring information not important to our task-at-hand. However, we find evidence that children instead just "learn about everything" regardless of whether they are trying to or not - and sometimes kids learn better than adults do. These findings show how kids can learn so much so quickly — like a sponge.
 
 tags: []
 
