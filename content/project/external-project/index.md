@@ -1,6 +1,6 @@
 ---
 title: Impacts of indoor air quality on cognitive performance
-summary: In this wide-scale interdisciplinary collaboration between psychologists, engineers, chemists, and neuroscientists, we researched how indoor air quality (CO2) and essential oil products impacts everyday cognition and decision-making..
+summary: In this wide-scale interdisciplinary collaboration between psychologists, engineers, chemists, and neuroscientists, we researched how indoor air quality (CO2) and essential oil products (lemon) impacts everyday cognition and optimal decision-making.
 tags:
 - Demo
 date: "2016-04-27T00:00:00Z"
