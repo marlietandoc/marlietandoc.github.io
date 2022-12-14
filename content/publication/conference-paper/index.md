@@ -13,7 +13,7 @@ authors:
 author_notes:
 
 
-date: '2013-07-01T00:00:00Z'
+date: '2022'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -40,13 +40,14 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+ - name: Paper
+   url: https://psyarxiv.com/aqw28
+  links:
+ - name: Materials (OSF)
+   url: https://osf.io/3k2g6/
 
-url_paper: 'https://psyarxiv.com/aqw28'
 url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_materials: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
