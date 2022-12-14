@@ -1,6 +1,6 @@
 ---
-title: External Project2222
-summary: An example of linking directly to an external project website!!!! using `external_link`.
+title: Impacts of indoor air quality on cognitive performance
+summary: In this wide-scale interdisciplinary collaboration between psychologists, engineers, chemists, and neuroscientists, we researched how indoor air quality (CO2) and essential oils impacts everyday cognition and decision-making  using `external_link`.
 tags:
 - Demo
 date: "2016-04-27T00:00:00Z"
@@ -9,6 +9,6 @@ date: "2016-04-27T00:00:00Z"
 external_link: https://example.org
 
 image:
-  caption: Photo by Toa Heftiba on Unsplash
+  caption: ''
   focal_point: Smart
 ---
