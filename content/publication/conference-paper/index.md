@@ -1,17 +1,17 @@
 ---
-title: 'An example conference paper'
+title: 'Dividing attention hurts learning in adults but not children'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
+  - Bharat Nadendla
+  - Amy Finn
 
 # Author notes (optional)
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+
 
 date: '2013-07-01T00:00:00Z'
 doi: ''
@@ -26,13 +26,13 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In PsyArXiv
+publication_short:
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Across two experiments we show that learning in childhood is fundamentally different from learning in adulthood. For adults, learning suffers when their attention is divided. For children, remarkably, learning is the same regardless of whether their attention is divided or not. And while children’s learning is expectedly worse than adults’ when attention is undivided, children learn just as well as adults—and sometimes even better—when attention is divided. These results suggest that a “sponge” may indeed be a good metaphor for learning during childhood. Children appear to take things in regardless of whether they are trying to or not. 
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: A“sponge” may indeed be a good metaphor for learning during childhood. Unlike adults, who selectively ignore a lot going on around us. Kids take things in regardless of whether they are trying to or not. 
 
 tags: []
 
@@ -44,14 +44,9 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_paper: 'https://psyarxiv.com/aqw28'
 url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_video: 'https://youtube.com'
+url_materials: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
