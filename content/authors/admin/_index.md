@@ -76,7 +76,7 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-For 6+ years, I have led start-to-finish research on human behavior, cognition, and decision-making. I currently work in the Computational Cognitive Neuroscience lab at UPenn where we integrate behavioral studies, neuroimaging, and machine learning to understand how people think and learn.
+For 6+ years, I have led research on human behavior, cognition, and decision-making. I currently work in the Computational Cognitive Neuroscience lab at UPenn where we integrate behavioral studies, neuroimaging, and machine learning to understand how people think and learn.
 
 Learning doesn't always come easy. We all have moments where it feels harder to pay attention and make optimal decisions. I study a range of factors that help or hurt learning. How does the time of day and sleep quality affect learning? What about multi-tasking ? How about CO2 levels in the air or even lemon essential oils?
 
