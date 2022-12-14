@@ -17,7 +17,7 @@ date: '2022'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2022-01-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -32,7 +32,7 @@ publication_short:
 abstract: Across two experiments we show that learning in childhood is fundamentally different from learning in adulthood. For adults, learning suffers when their attention is divided. For children, remarkably, learning is the same regardless of whether their attention is divided or not. And while children’s learning is expectedly worse than adults’ when attention is undivided, children learn just as well as adults—and sometimes even better—when attention is divided. These results suggest that a “sponge” may indeed be a good metaphor for learning during childhood. Children appear to take things in regardless of whether they are trying to or not. 
 
 # Summary. An optional shortened abstract.
-summary: A “sponge” is often used as a good metaphor for learning during childhood. Unlike adults, who selectively ignore a lot going on around us. We find evidence that kids take things in regardless of whether they are trying to or not. 
+summary:  Us adults are quite good at selectively ignoring things that are not important for our current goal. But, we find evidence that kids take things in regardless of whether they are trying to or not - and sometimes they learn better than adults do.
 
 tags: []
 
@@ -41,12 +41,9 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
- - name: Custom Link!
+ - name: Paper
    url: https://psyarxiv.com/aqw28
 
-#url_pdf: 'https://psyarxiv.com/aqw28'
-#url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-#url_materials: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
