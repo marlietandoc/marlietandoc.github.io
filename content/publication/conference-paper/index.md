@@ -43,6 +43,10 @@ featured: true
 links:
  - name: Paper
    url: https://psyarxiv.com/aqw28
+ - name: Code
+   url: https://psyarxiv.com/aqw28
+ - name: Materials
+   url: https://osf.io/3k2g6/
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -54,7 +58,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Made in R (ggplot2) and Illustrator'
+  caption: 'Made with R (ggplot2) and Illustrator'
   focal_point: ''
   preview_only: false
 
