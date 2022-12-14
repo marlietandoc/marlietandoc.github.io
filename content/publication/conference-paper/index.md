@@ -41,13 +41,12 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
- - name: Paper
+ - name: Custom Link!
    url: https://psyarxiv.com/aqw28
-  links:
- - name: Materials (OSF)
-   url: https://osf.io/3k2g6/
 
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+#url_pdf: 'https://psyarxiv.com/aqw28'
+#url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+#url_materials: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
