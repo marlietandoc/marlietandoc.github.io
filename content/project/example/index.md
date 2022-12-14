@@ -1,6 +1,6 @@
 ---
 title: Memory biases in humans, brains, and machines
-summary: Our memories are not perfect records. Our memories are prone to biases and distortions, from our stereotypes and knowledge of how things "should work". As part of my dissertation, we are examining how different memories are more-or-less susceptible to biases. We find convergent evidence in both human memory representations and in a brain-inspired neural network that these biases are not just errors, but can in fact be reflecting a system that is learning optimally. We are now looking at human brain activity to see if we can predict these memory biases.
+summary: Our memories are not perfect recordings of our past. Our memories are prone to biases and distortions. As part of my dissertation, we are examining how different memories are more-or-less susceptible to biases. We find convergent evidence in both human memory representations and in a brain-inspired neural network that these biases are not just errors, but can in fact be reflecting a system that is learning optimally. We are now looking at human brain activity to see if we can predict these memory biases.
 
 tags:
   - Research
@@ -10,13 +10,15 @@ date: '2022-04-27T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Figures from a talk I gave at Neuroscience '22
+  caption: Figures from my talk at Neuroscience '22
   focal_point: Smart
 
 links:
 links:
  - name: Paper
    url: https://psyarxiv.com/aqw28
+ - name: Recent Slides
+   url: 'content/project/example/tandoc_sfn_2022_website.pdf'
 url_code: ''
 url_pdf: ''
 url_slides: 'tandoc_sfn_2022_website.pdf'
