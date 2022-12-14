@@ -1,22 +1,18 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Memory biases in humans, brains, and machines
+summary: Our memories are not like rewatching a movie. Instead, our memories are prone to biases and distortions, such as misremembering stereotypes.. In this project (my dissertation work), we examine how different kinds of memories are more-or-less susceptible to these biases. We find convergent evidence in both human memory representations and in a brain-inspired neural network.
 tags:
-  - Deep Learning
-date: '2016-04-27T00:00:00Z'
+  - Research
+date: '2020-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Photo from a talk I gave at Neuroscience '22
   focal_point: Smart
 
 links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
 url_slides: ''
