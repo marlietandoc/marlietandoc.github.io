@@ -22,9 +22,9 @@ bio: Researcher, psychologist, neuroscientist
 
 # Interests to show in About widget
 interests:
-  - What factors affect how humans think 
-  - How are memories based by our pasts?
-  - Information Retrieval
+  - Quantitative and qualitative research
+  - Data wrangling, analysis, visualizaiton
+  - Transforming data into shareable stories
 
 # Education to show in About widget
 education:
