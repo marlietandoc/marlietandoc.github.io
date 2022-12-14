@@ -51,7 +51,7 @@ url_materials: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Made in R (ggplot2) and Illustrator'
   focal_point: ''
   preview_only: false
 
