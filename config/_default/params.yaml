@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: strawberry
-  theme_night: mr robot
+  theme_day: forest
+  theme_night: dark
   font: minimal
   font_size: L
 
