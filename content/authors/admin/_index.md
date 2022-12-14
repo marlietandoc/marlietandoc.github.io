@@ -79,8 +79,6 @@ highlight_name: true
 ---
 For 6+ years, I have led collaborative research on <strong> human behavior, cognition, and decision-making </strong>. I currently work in the Computational Cognitive Neuroscience lab at UPenn where we create harmonies with behavioral studies, neuroimaging, and machine learning to better understand how people think, learn, and remember.
 
-Learning doesn't always come easy. We all have moments where it feels harder to pay attention and make optimal decisions. I have researched an assortment of factors that impact learning. How does time of day and sleep quality affect learning? What about when we are trying to multi-task? How about CO2 levels or your lemon essential oil diffuser?
-
-
+I love the research process itself and am eager to apply my research skills to solve quesitons with real-world impact.
 
 {{< icon name="download" pack="fas" >}} You can find my resume {{< staticref "uploads/demo_resume.pdf" "newtab" >}}here{{< /staticref >}}.
