@@ -44,6 +44,10 @@ featured: false
 links:
  - name: Paper
    url: https://www.biorxiv.org/content/10.1101/2021.07.29.454337v1.abstract
+ - name: Github
+   url: https://github.com/schapirolab/itlblklearning
+
+
 url_dataset: ''
 url_poster: ''
 url_project: ''
