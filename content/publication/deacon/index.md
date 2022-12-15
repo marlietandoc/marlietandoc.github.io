@@ -5,7 +5,7 @@ title: 'Human Cognition, Patterning and Deacon’s Absentials: The Value of Abse
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  -Robert Logan
+  - Robert Logan
 
 # Author notes (optional)
 author_notes:
