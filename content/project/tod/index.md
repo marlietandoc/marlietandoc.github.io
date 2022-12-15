@@ -1,5 +1,5 @@
 ---
-title: The brain's internal clock. Do we learn better in the AM or PM?
+title: The brain's internal clock
 summary:  Not a morning person? Most people below the age of 30 also think so. But, in this collab with Harvard Medical school, we test how learning new concepts differs in the morning vs. evening. Consistent with work that brain activity fluctuates throughtou the day, we find new evidence that the morning is actually the best time to learn, especially when we are transferring what we learned to a new scenarios
 
 tags:
@@ -28,9 +28,9 @@ links:
 slides: = ""
 ---
 
-Extracting shared structure across our experiences allows us to generalize our knowledge to novel contexts. How do different brain states influence this ability to generalize? Using a novel category learning paradigm, we assess the effect of both sleep and time of day on generalization that depends on the flexible integration of recent information. Counter to our expectations, we found no evidence that this form of generalization is better after a night of sleep relative to a day awake. Instead, we observed an effect of time of day, with better generalization in the morning than the evening. We suggest that a state of lowered inhibition in the morning may facilitate spreading activation between otherwise separate memories, promotinggeneralization.
+How do different brain states influence the ability to generalize what we know to new scenarios? Using a concept learning task, we assess the effect of time of day on generalization in 331 undergraduates who were brought into the lab either in the morning (9am) or evening (9pm). We found with better generalization in the morning than the evening. Consistent with work that the brain is in a lower state of lowered inhibition in the mornin, may facilitate spreading activation between otherwise separate memories, promoting generalization.
 
  suggesting that in the morning inhibition in the brain is reduced allowing you to transfer what you learned to new scenarios.
 
-My role:
+My role: Wrote the paper, made figures and visualizations (ggplot2, Illustrator), analyzed data and performed statistics (regression, correlation, ANOVA),
 Example visualizations:
