@@ -22,10 +22,10 @@ bio: Researcher, psychologist, neuroscientist
 
 # Interests to show in About widget
 interests:
-  - Quantitative and qualitative research
-  - Data wrangling, analysis, visualizaiton
-  - Transforming data into shareable stories
-  - Understanding how people think and make decisions
+  - Quantitative and qualitative research approaches
+  - Wrangling, analyzing, and visualizing data
+  - Transforming data into stories
+  - Understanding how people think, learn, and act
 
 # Education to show in About widget
 education:
@@ -77,8 +77,8 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-For <strong> 6+ years</strong> , I have led collaborative research projects on human behavior and cognition. I am currently a PhD Student at UPenn in the {{< staticref "https://www.schapirolab.org/home" "newtab" >}}Computational Cognitive Neuroscience Lab {{< /staticref >}} where we create harmonies with behavioral experiments, neuroimaging, and brain-inspired neural networks to improve new insights into how people think, learn, and remember.
+For <strong> 6+ years</strong> , I have led collaborative research projects on human behavior and cognition. I am currently a PhD Student at UPenn in the {{< staticref "https://www.schapirolab.org/home" "newtab" >}}Computational Cognitive Neuroscience Lab {{< /staticref >}} where we integrate behavioral studies, neuroimaging, and neural networks to improve our understanding of human learning and memory.
 
- I am currently seeking an internship I can grow as a researcher, apply my research craft, and solve problems with a team.
+ I am currently seeking an internship where I can grow as a researcher, apply my research experience, and solve problems with a team.
 
 {{< icon name="download" pack="fas" >}} You can find my up-to-date resume {{< staticref "uploads/demo_resume.pdf" "newtab" >}}here{{< /staticref >}}.
