@@ -1,14 +1,13 @@
 ---
-title: 'Distributed representations for human inferenc'
-
+title: 'Examining the effects of time of day and sleep on generalization'
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Zhenglong Zhou
-  - Dhairyya Singh
   - admin
-  - Anna Schapiro
+  - Mollie Bayda
+  - Craig Poskanzer
+  - Eileen Cho
 
 # Author notes (optional)
 author_notes:
@@ -18,32 +17,31 @@ date: '2021'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2021-01-01T00:00:00Z'
+publishDate: '2021'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['3']
+publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In bioRxiv
+publication: In PLoS ONE
 publication_short:
 
-abstract: Neural representations can be characterized as falling along a continuum, from distributed representations, in which neurons are responsive to many related features of the environment, to localist representations, where neurons orthogonalize activity patterns despite any input similarity. Distributed representations support powerful learning in neural network models and have been posited to exist throughout the brain, but it is unclear under what conditions humans acquire these representations and what computational advantages they may confer. In a series of behavioral experiments, we present evidence that interleaved exposure to new information facilitates the rapid formation of distributed representations in humans. As in neural network models with distributed representations, interleaved learning supports fast and automatic recognition of item relatedness, affords efficient generalization, and is especially critical for inference when learning requires statistical integration of noisy information over time. We use the data to adjudicate between several existing computational models of human memory and inference. The results demonstrate the power of interleaved learning and implicate the use of distributed representations in human inference.
-
+abstract: ''
 # Summary. An optional shortened abstract.
-summary:  ''
+summary:  
 
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 links:
  - name: Paper
-   url: https://www.biorxiv.org/content/10.1101/2021.07.29.454337v1.abstract
+   url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0255423
 url_dataset: ''
 url_poster: ''
 url_project: ''
