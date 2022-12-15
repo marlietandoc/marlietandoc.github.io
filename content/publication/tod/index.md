@@ -8,6 +8,8 @@ authors:
   - Mollie Bayda
   - Craig Poskanzer
   - Eileen Cho
+  - Robert Stickgold
+  - Anna Schapiro
 
 # Author notes (optional)
 author_notes:
