@@ -1,10 +1,10 @@
 ---
 title: The brain's internal clock
-summary:  Not a morning person? Most people below the age of 30 also think so. In this collab with Harvard Medical school, we A/B tested how learning differs in the morning vs. evening across 7 experiments. We find that the morning is the ideal time to learn new information, especially when what we learn has to be transferred to to a new scenario.
+summary:  Not a morning person? Most people below the age of 30 also think so. In this collab with Harvard Med School, we A/B tested how learning differs in the morning vs. evening across 7 experiments. We find that the morning is the ideal time to learn new information, especially when we have to apply what we learned to a new scenario.
 
 tags:
   - Research
-date: '2022-04-27T00:00:00Z'
+date: '2010-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -28,7 +28,7 @@ links:
 slides: = ""
 ---
 
-How do different brain states influence the ability to generalize what we know to new scenarios? Using a concept learning task, we assess the effect of time of day on generalization in 331 undergraduates who were brought into the lab either in the morning (9am) or evening (9pm). We found with better generalization in the morning than the evening. Consistent with work that the brain is in a lower state of lowered inhibition in the mornin, may facilitate spreading activation between otherwise separate memories, promoting generalization.
+How do different brain states influence the ability to generalize what we know to new scenarios? Using a concept learning task, we assess the effect of time of day on generalization in 331 undergraduates who were brought into the lab either in the morning (9am) or evening (9pm). We found with better generalization in the morning than the evening. Consistent with work that the brain is in a lower state of lowered inhibition in the mornin, may facilitate spreading activation between otherwise separate memories, promoting generalization and transfer to new contexts.
 
  suggesting that in the morning inhibition in the brain is reduced allowing you to transfer what you learned to new scenarios.
 
