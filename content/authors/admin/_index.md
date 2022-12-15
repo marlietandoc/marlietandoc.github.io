@@ -79,6 +79,6 @@ highlight_name: true
 ---
 For <strong> 6+ years</strong> , I have led collaborative research projects on human behavior and cognition. I am currently a PhD Student at UPenn in the {{< staticref "https://www.schapirolab.org/home" "newtab" >}}Computational Cognitive Neuroscience Lab {{< /staticref >}} where we integrate behavioral studies, neuroimaging, and neural networks to improve our understanding of human learning and memory.
 
- I am currently seeking an internship where I can grow as a researcher, apply my research experience, and solve problems with a team.
+ I am currently seeking an internship where I can grow as a researcher, solve problems together as a team, and continue to apply my research skills to solve questions.
 
 {{< icon name="download" pack="fas" >}} You can find my up-to-date resume {{< staticref "uploads/demo_resume.pdf" "newtab" >}}here{{< /staticref >}}.
