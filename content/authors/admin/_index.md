@@ -77,7 +77,7 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-For <strong> 6+ years</strong> , I have led collaborative research projects on human behavior and cognition. I am currently a PhD Student at UPenn in the {{< staticref "https://www.schapirolab.org/home" "newtab" >}}Computational Cognitive Neuroscience Lab {{< /staticref >}} where we create harmonies with behavioral experiments, neuroimaging, and brain-inspired neural networks to understand how people think, learn, and remember.
+For <strong> 6+ years</strong> , I have led collaborative research projects on human behavior and cognition. I am currently a PhD Student at UPenn in the {{< staticref "https://www.schapirolab.org/home" "newtab" >}}Computational Cognitive Neuroscience Lab {{< /staticref >}} where we create harmonies with behavioral experiments, neuroimaging, and brain-inspired neural networks to improve new insights into how people think, learn, and remember.
 
  I am currently seeking an internship I can grow as a researcher, apply my research craft, and solve problems with a team.
 
