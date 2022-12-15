@@ -24,7 +24,7 @@ bio: Researcher, psychologist, neuroscientist
 interests:
   - Quantitative and qualitative research approaches
   - Wrangling, analyzing, and visualizing data
-  - Transforming data into stories
+  - Transforming data into shareable stories
   - Understanding how people think, learn, and act
 
 # Education to show in About widget
