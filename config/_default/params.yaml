@@ -7,7 +7,7 @@
 
 appearance:
   theme_day: minimal
-  theme_night: dark
+  theme_night: minimal
   font: minimal
   font_size: L
 
@@ -18,8 +18,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'Personal website of Marlie Tandoc'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
