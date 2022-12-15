@@ -1,7 +1,6 @@
 ---
-title: Memory biases in humans, brains, and machines
-summary: Our memories are not perfect recordings. Instead our memories are prone to biases and misinformation. As part of my dissertation, we are identifiying how different memories are more-or-less susceptible to biases. We find convergent evidence in both human memory representations and in a brain-inspired neural network that these biases are not just errors, but are in fact reflecting an optimal learning system . We are now looking at human brain activity to see if we can predict memory biases.
-
+title: Impacts of indoor air quality on cognitive performance and decision-making
+summary: In this large interdisciplinary collaboration between psychologists, engineers, chemists, and neuroscientists, we are researching how indoor air quality (CO2) and essential oil diffusers impact everyday cognition and optimal decision-making to provide actionable insights into good indoor ventilation systems
 tags:
   - Research
 date: '2022-04-27T00:00:00Z'
@@ -10,14 +9,14 @@ date: '2022-04-27T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Figures from my talk at Neuroscience '22
+  caption: ''
   focal_point: Smart
 
 links:
- - name: Recent Slides
-   url: 'project/example/tandoc_sfn_2022_website.pdf'
- - name: Video
-   url: 'https://www.youtube.com/watch?v=GUU7jgyh9VQ'
+ - name: CO2 Paper
+   url: 'https://onlinelibrary.wiley.com/doi/abs/10.1111/ina.12706'
+ - name: Essential Oil Paper
+   url: 'https://onlinelibrary.wiley.com/doi/epdf/10.1111/ina.12919'
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
