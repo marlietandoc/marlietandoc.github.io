@@ -81,5 +81,5 @@ For <strong> 6+ years</strong>, I have led collaborative research projects on hu
 
  I am currently seeking an <strong> internship in Summer '23 </strong> where I can grow as a researcher, work closely with a team, and translate my research skills to solve high-impact questions. 
 
- You can find my up-to-date resume {{< staticref "uploads/demo_resume.pdf" "newtab" >}}here.{{< /staticref >}} 
- {{< icon name="download" pack="fas" >}}
+  {{< icon name="download" pack="fas" >}} You can find my up-to-date resume {{< staticref "uploads/marlie_tandoc_resume.pdf" "newtab" >}}here!{{< /staticref >}} 
+
