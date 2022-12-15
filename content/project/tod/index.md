@@ -1,6 +1,6 @@
 ---
-title: The brain's internal clock. Learning in the AM vs.PM
-summary:  Not a morning person? Most people below the age of 30 also think so. In this collab with Harvard Medical school, we A/B tested how learning differs in the morning vs. evening across 7 experiments. We find that the morning is the best time to learn new information, especially when what we learn has to be transferred to to a new scenario.
+title: The brain's internal clock
+summary:  Not a morning person? Most people below the age of 30 also think so. In this collab with Harvard Medical school, we A/B tested how learning differs in the morning vs. evening across 7 experiments. We find that the morning is the ideal time to learn new information, especially when what we learn has to be transferred to to a new scenario.
 
 tags:
   - Research
