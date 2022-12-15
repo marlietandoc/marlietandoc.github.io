@@ -1,10 +1,11 @@
 ---
-title: 'Indoor CO2 concentrations and cognitive function: A critical review'
+title: 'The impact of emissions from an essential oil diffuser on cognitive performance'
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - Bowen Du
+  - Heather Schwartz-Narbonne
   - admin
   - Michael Mack
   - Jeffrey Siegel
@@ -13,11 +14,11 @@ authors:
 author_notes:
 
 
-date: '2020'
+date: '2022'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2020-01-01T00:00:00Z'
+publishDate: '2022-01-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -29,7 +30,7 @@ publication_types: ['2']
 publication: In Indoor Air
 publication_short:
 
-abstract: Poor indoor air quality indicated by elevated indoor CO2 concentrations has been linked with impaired cognitive function, yet current findings of the cognitive impact of CO2 are inconsistent. This review summarizes the results from 37 experimental studies that conducted objective cognitive tests with manipulated CO2 concentrations, either through adding pure CO2 or adjusting ventilation rates (the latter also affects other indoor pollutants). Studies with varied designs suggested that both approaches can affect multiple cognitive functions. In a subset of studies that meet objective criteria for strength and consistency, pure CO2 at a concentration common in indoor environments was only found to affect high-level decision-making measured by the Strategic Management Simulation battery in non-specialized populations, while lower ventilation and accumulation of indoor pollutants, including CO2, could reduce the speed of various functions but leave accuracy unaffected. Major confounding factors include variations in cognitive assessment methods, study designs, individual and populational differences in subjects, and uncertainties in exposure doses. Accordingly, future research is suggested to adopt direct air delivery for precise control of CO2 inhalation, include brain imaging techniques to better understand the underlying mechanisms that link CO2 and cognitive function, and explore the potential interaction between CO2 and other environmental stimuli.
+abstract: Essential oil products are increasingly used in indoor environments and have been found to negatively contribute to indoor air quality. Moreover, the chemicals and fragrances emitted by those products may affect the central nervous system and cognitive function. This study uses a double-blind between-subject design to investigate the cognitive impact of exposure to the emissions from essential oil used in an ultrasonic diffuser. In a simulated office environment where other environmental parameters were maintained constant, 34 female and 25 male university students were randomly allocated into four essential oil exposure scenarios. The first two scenarios contrast lemon oil to pure deionized water, while the latter two focus on different levels of particulate matter differentiated by HEPA filters with non-scented grapeseed oil as the source. Cognitive function was assessed using a computer-based battery consisting of five objective tests that involve reasoning, response inhibition, memory, risk-taking, and decision-making. Results show that exposure to essential oil emissions caused shortened reaction time at the cost of significantly worse response inhabitation control and memory sensitivity, indicating potentially more impulsive decision-making. The cognitive responses caused by scented lemon oil and non-scented grapeseed oil were similar, as was the perception of odor pleasantness and intensity.
 
 # Summary. An optional shortened abstract.
 summary:  
@@ -42,7 +43,7 @@ featured: true
 # Custom links (uncomment lines below)
 links:
  - name: Paper
-   url: https://onlinelibrary.wiley.com/doi/abs/10.1111/ina.12706
+   url: https://onlinelibrary.wiley.com/doi/abs/10.1111/ina.12919
 url_dataset: ''
 url_poster: ''
 url_project: ''
