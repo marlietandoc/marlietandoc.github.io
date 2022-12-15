@@ -13,9 +13,9 @@ image:
   focal_point: Smart
 
 links:
- - name: CO2 Paper
+ - name: CO2
    url: 'https://onlinelibrary.wiley.com/doi/abs/10.1111/ina.12706'
- - name: Essential Oil Paper
+ - name: Essential Oils
    url: 'https://onlinelibrary.wiley.com/doi/epdf/10.1111/ina.12919'
 
 # Slides (optional).
