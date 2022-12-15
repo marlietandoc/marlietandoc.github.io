@@ -24,11 +24,13 @@ content:
   # To show all items, set `tag` to "*".
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
-  #filter_button:
-    #- name: All
-    #  tag: '*'
-    #- name: Other
-     # tag: Demo
+  filter_button:
+    - name: All
+      tag: '*'
+    - name: Research
+      tag: Research
+    - name: Code
+      tag: Code
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
@@ -39,7 +41,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: showcase
+  view: card
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
