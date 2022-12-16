@@ -1,6 +1,6 @@
 ---
 title: Impacts of indoor air quality on cognitive performance
-summary: In this large interdisciplinary collaboration between psychologists, engineers, chemists, and neuroscientists, we are researching how everyday indoor air quality (CO2) and everyday household products (essential oils diffusers) impact everyday cognition and optimal decision-making, providing actionable insights into why good ventilation is so important.
+summary: In this wide-scale interdisciplinary collaboration between psychologists, engineers, and chemists, we are researching how indoor air quality (CO2) and common household products (essential oil diffusers) impact everyday cognition and decision-making, providing actionable insights into why good ventilation is so important.
 tags:
   - Research
 date: '2021-04-27T00:00:00Z'
@@ -13,9 +13,9 @@ image:
   focal_point: Smart
 
 links:
- - name: CO2
+ - name: CO2 Paper
    url: 'https://onlinelibrary.wiley.com/doi/abs/10.1111/ina.12706'
- - name: Essential Oils
+ - name: Essential Oil Peper
    url: 'https://onlinelibrary.wiley.com/doi/epdf/10.1111/ina.12919'
 
 # Slides (optional).
