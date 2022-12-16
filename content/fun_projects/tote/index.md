@@ -1,6 +1,6 @@
 ---
 title: Conference Tote Design
-Summary: I combined AI-generated art ({{< staticref "https://openai.com/dall-e-2/" "newtab" >}}DALL-E-2{{< /staticref >}}), Illustrator, and many prompt attempts. Winning prompt “Brain hot-air balloon floating over the skyline of Philadelphia, children’s illustration""
+Summary: I combined AI-generated art ({{< staticref "https://openai.com/dall-e-2/" "newtab" >}}DALL-E-2{{< /staticref >}}), Illustrator, and many prompt attempts. Winning prompt “Brain hot-air balloon floating over the skyline of Philadelphia, Children’s illustration"
 tags:
   - Research
 date: '2021-04-27T00:00:00Z'
