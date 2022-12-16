@@ -44,7 +44,7 @@ links:
  - name: Paper
    url: https://psyarxiv.com/aqw28
  - name: Code
-   url: https://psyarxiv.com/aqw28
+   url: https://github.com/marlietandoc/att_div
  - name: Materials
    url: https://osf.io/3k2g6/
 url_dataset: ''
