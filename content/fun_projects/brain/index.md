@@ -1,5 +1,5 @@
 ---
-title:Brain
+title: Brain
 tags:
   - Research
 date: '2021-04-27T00:00:00Z'
