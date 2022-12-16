@@ -1,12 +1,13 @@
 ---
-title: Brain
-summary: My brain 3D printed using (Jason GitHub link). Not-to-scale. Painted by me.
+title: My brain in the palm of my hand
+summary: 3D printed by transforming a MRI scan into a printable model using my labmate's {{< staticref "https://github.com/macklab/BrainMaker" "newtab" >}}code{{< /staticref >}}. Not-to-scale. Painted by me.
 tags:
   - Research
 date: '2021-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
+
 
 image:
   caption: 'Totebag '
