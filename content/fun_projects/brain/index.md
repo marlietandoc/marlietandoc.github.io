@@ -1,6 +1,6 @@
 ---
 title: Brain
-summary: My brain 3D printed using (Jason GitHub link). Brain not-to-scale. Painted by me.
+summary: My brain 3D printed using (Jason GitHub link). Not-to-scale. Painted by me.
 tags:
   - Research
 date: '2021-04-27T00:00:00Z'

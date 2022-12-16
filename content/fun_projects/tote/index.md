@@ -1,5 +1,6 @@
 ---
-title: Brain
+title: Tote
+Summary: A totebag I designed for a MDRS 2022. Combining AI-generated art (DALL-E-2), Illustrator, and many, many prompt attempts. The winner.  “Brain hot-air balloon floating above the skyline of Philadelphia, Children’s illustration.
 tags:
   - Research
 date: '2021-04-27T00:00:00Z'
