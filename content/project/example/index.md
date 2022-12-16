@@ -1,8 +1,8 @@
 ---
 title: Memory biases in behavior, brains, and machines
-summary: Our memories are not perfect recordings of our pasts. But are prone to bias and misinformation. As part of my PhD work, I have been identifying what kind of memories are most susceptible to such biases. By combining behavior, fMRI, and neural networks, we show that memory biases exist in humans and machines. And that they are not just random errors, but are a product of an optimal learning system.
+summary: Our memories are not perfect recordings of the past. But are prone to bias and misinformation. As part of my PhD work, I have been identifying what kind of memories are most susceptible to such biases. By combining behavior, fMRI, and neural networks, we show that memory biases exist in humans and machines. And that they are not just random errors, but are a product of an optimal learning system. I recently presented this work as a talk at one of the biggest conferences in the world, Neuroscience 2022.
 
-I recently presented this work as a talk at one of the biggest conferences in the world, Neuroscience 2022.
+https://www.sfn.org/meetings/neuroscience-2022
 
 tags:
   - Research
