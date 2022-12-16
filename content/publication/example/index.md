@@ -7,6 +7,7 @@ title: 'Dividing attention hurts learning in adults but not children'
 authors:
   - admin
   - Bharat Nadendla
+  - Theresa Pham
   - Amy Finn
 
 # Author notes (optional)
