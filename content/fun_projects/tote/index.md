@@ -1,5 +1,5 @@
 ---
-title: Conference Tote Design
+title: MDRS 2022 Conference Totebags
 Summary: I combined AI-generated art ({{< staticref "https://openai.com/dall-e-2/" "newtab" >}}DALL-E-2{{< /staticref >}}), Illustrator, and many prompt attempts. Winning prompt “Brain hot-air balloon floating over the skyline of Philadelphia, Children’s illustration"
 tags:
   - Research
