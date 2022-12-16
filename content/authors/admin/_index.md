@@ -25,7 +25,7 @@ interests:
   - Quantitative and qualitative research approaches
   - Wrangling, analyzing, and visualizing data
   - Transforming data into shareable stories
-  - Understanding how people think
+  - Understanding how people/users think
 
 # Education to show in About widget
 education:
