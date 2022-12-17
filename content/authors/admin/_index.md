@@ -38,7 +38,7 @@ education:
       year: 2020
     - course: BSc in Psychology Research, Book & Media Studies
       institution: University of Toronto
-      year: 2008
+      year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
