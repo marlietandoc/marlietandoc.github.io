@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Marlie</title><link>https://marlietandoc.github.io/</link><atom:link href="https://marlietandoc.github.io/index.xml" rel="self" type="application/rss+xml"/><description>Marlie</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 Dec 2022 00:00:00 +0000</lastBuildDate><image><url>https://marlietandoc.github.io/media/icon_hu85feb84b9d98f8797ec82ae0eb98f4f2_1375536_512x512_fill_lanczos_center_3.png</url><title>Marlie</title><link>https://marlietandoc.github.io/</link></image><item><title>My brain in the palm of my hand</title><link>https://marlietandoc.github.io/fun_projects/brain/</link><pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate><guid>https://marlietandoc.github.io/fun_projects/brain/</guid><description/></item><item><title>Memory errors in behavior, brains, and machines</title><link>https://marlietandoc.github.io/project/example/</link><pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate><guid>https://marlietandoc.github.io/project/example/</guid><description>&lt;p>We created memory games where participants had to memorize the colors of different cartoon satellites.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Marlie</title><link>https://marlietandoc.github.io/</link><atom:link href="https://marlietandoc.github.io/index.xml" rel="self" type="application/rss+xml"/><description>Marlie</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 Dec 2022 00:00:00 +0000</lastBuildDate><image><url>https://marlietandoc.github.io/media/icon_hu85feb84b9d98f8797ec82ae0eb98f4f2_1375536_512x512_fill_lanczos_center_3.png</url><title>Marlie</title><link>https://marlietandoc.github.io/</link></image><item><title>My brain in the palm of my hand</title><link>https://marlietandoc.github.io/fun_projects/brain/</link><pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate><guid>https://marlietandoc.github.io/fun_projects/brain/</guid><description/></item><item><title>Memory errors in behavior, brains, and machines</title><link>https://marlietandoc.github.io/project/example/</link><pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate><guid>https://marlietandoc.github.io/project/example/</guid><description>&lt;p>Information varies in how generalizable or specific it is across experiences. For example, as we encounter birds we can learn that there are shared features that link these experiences together (birds can fly and lay eggs). But at the same time, we can also learn that there are unique features that set our experiences apart (such as that flamingos have long legs). Here we test whether or not people misremember feature information differently depending on whether it is shared or unique.&lt;/p>
+&lt;p>To do this, we created memory games where participants had to memorize the colors of different cartoon satellites. We then tested how people&amp;rsquo;s memory for colors was distorted We also trained a neural network of the hippocampus on the same satellites to see if it showed similar memory biases as humans do&lt;/p>
 &lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
@@ -12,7 +13,7 @@ height="532"
 loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
-&lt;p>We then tested how people&amp;rsquo;s memory for colors was distorted. We find that there were bigger memory biases for information that is shared across experiences, and weaker memory biases for more idiosyncratic information. By examining the neural activity of this information in a neural network model we find something similar, where the neural patterns in the model are more distorted for shared information that it is for idiosyncratic information.&lt;/p>
+&lt;p>In humans (left), we find that there were bigger memory biases for information that is shared across experiences (shared features), and weaker memory biases for more idiosyncratic information (unique features). By examining the neural activity of this information in a neural network model we find something similar, where the neural patterns in the model are more distorted for shared information that it is for idiosyncratic information.&lt;/p>
 &lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
@@ -193,7 +194,7 @@ console.log('code block');
 &lt;p>Wowchemy supports the popular &lt;a href="https://plot.ly/" target="_blank" rel="noopener">Plotly&lt;/a> format for interactive charts.&lt;/p>
 &lt;p>Save your Plotly JSON in your page folder, for example &lt;code>line-chart.json&lt;/code>, and then add the &lt;code>{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code> shortcode where you would like the chart to appear.&lt;/p>
 &lt;p>Demo:&lt;/p>
-&lt;div id="chart-734268519" class="chart">&lt;/div>
+&lt;div id="chart-816239754" class="chart">&lt;/div>
 &lt;script>
 (function() {
 let a = setInterval( function() {
@@ -202,7 +203,7 @@ return;
 }
 clearInterval( a );
 Plotly.d3.json("./line-chart.json", function(chart) {
-Plotly.plot('chart-734268519', chart.data, chart.layout, {responsive: true});
+Plotly.plot('chart-816239754', chart.data, chart.layout, {responsive: true});
 });
 }, 500 );
 })();
