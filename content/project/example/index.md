@@ -1,6 +1,6 @@
 ---
 title: Memory errors in behavior, brains, and machines
-summary: Our memories are not perfect recordings of the past. But are prone to error, misinformation, and bias. As part of my PhD work, I have been identifying what memories are most susceptible to such biases. By combining behavioral experiments, fMRI, and neural networks, we show that memory biases similarly exist in humans and machines. And we find, that the existence of these biases is not a random error, but are a product of an optimal learning system.
+summary: Our memories are not perfect recordings of the past. But instead are prone to error, misinformation, and bias. As part of my PhD work, I have been identifying what memories are most susceptible to such biases. By combining behavioral experiments, fMRI, and neural networks, we show that memory biases similarly exist in humans and machines. We find that these biases are not random mistakes, but are a product of an optimal learning system.
 
 
 
