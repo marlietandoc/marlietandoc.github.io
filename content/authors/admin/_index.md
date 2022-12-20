@@ -81,5 +81,5 @@ For <strong> 6+ years</strong>, I have conducted a wide-range of collaborative r
 
 I love working as a team to identify research questions, to develop innovative and interdisciplinary research methods, and to uncover data-driven stories to share with others. I am <strong> currently seeking an internship in Summer '23 </strong> where I can continue to grow as a researcher.
 
-  {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/marlie_tandoc_resume.pdf" "newtab" >}}resume{{< /staticref >}} 
+  {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/marlie_tandoc_resume.pdf" "newtab" >}}resume{{< /staticref >}} {{< icon name="download" pack="fas" >}} 
 
