@@ -1,4 +1,32 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Marlie</title><link>https://marlietandoc.github.io/</link><atom:link href="https://marlietandoc.github.io/index.xml" rel="self" type="application/rss+xml"/><description>Marlie</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 10 Dec 2022 00:00:00 +0000</lastBuildDate><image><url>https://marlietandoc.github.io/media/icon_hu85feb84b9d98f8797ec82ae0eb98f4f2_1375536_512x512_fill_lanczos_center_3.png</url><title>Marlie</title><link>https://marlietandoc.github.io/</link></image><item><title>Memory errors in behavior, brains, and machines</title><link>https://marlietandoc.github.io/project/example/</link><pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate><guid>https://marlietandoc.github.io/project/example/</guid><description>&lt;p>To test this we created memory games where we tested how people&amp;rsquo;s memory for colors was distorted. We find that there were bigger memory biases for information that is shared across experiences, and weaker memory biases for more idiosyncratic information. By examining the neural activity of this information in a neural network model we find something similar, where the neural patterns in the model are more distorted for shared information that it is for idiosyncratic information. We are currently collecting high-resolution neuroimaging data (fMRI) where we will examine how memory biases manifest in the human brain. We will then compare how memory representations in the artificial neural network are the same or different as memory representations in the brain.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Marlie</title><link>https://marlietandoc.github.io/</link><atom:link href="https://marlietandoc.github.io/index.xml" rel="self" type="application/rss+xml"/><description>Marlie</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 10 Dec 2022 00:00:00 +0000</lastBuildDate><image><url>https://marlietandoc.github.io/media/icon_hu85feb84b9d98f8797ec82ae0eb98f4f2_1375536_512x512_fill_lanczos_center_3.png</url><title>Marlie</title><link>https://marlietandoc.github.io/</link></image><item><title>Memory errors in behavior, brains, and machines</title><link>https://marlietandoc.github.io/project/example/</link><pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate><guid>https://marlietandoc.github.io/project/example/</guid><description>&lt;p>We created memory games where participants had to memorize the colors of different cartoon satellites.&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Memory game visualization" srcset="
+/project/example/memorygame_hu3bdd692245b977856dcf678c4fc086a5_1374677_f542a0e58eb9e898671c8af41b96dce9.webp 400w,
+/project/example/memorygame_hu3bdd692245b977856dcf678c4fc086a5_1374677_30568d02fa5951d66ef4121fe8928f6a.webp 760w,
+/project/example/memorygame_hu3bdd692245b977856dcf678c4fc086a5_1374677_1200x1200_fit_q100_h2_lanczos_3.webp 1200w"
+src="https://marlietandoc.github.io/project/example/memorygame_hu3bdd692245b977856dcf678c4fc086a5_1374677_f542a0e58eb9e898671c8af41b96dce9.webp"
+width="760"
+height="532"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;p>We then tested how people&amp;rsquo;s memory for colors was distorted. We find that there were bigger memory biases for information that is shared across experiences, and weaker memory biases for more idiosyncratic information. By examining the neural activity of this information in a neural network model we find something similar, where the neural patterns in the model are more distorted for shared information that it is for idiosyncratic information.&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Main finding" srcset="
+/project/example/finding_hu609940be1dc2a773f6ba22ab277e1fac_276021_bf926a7ad25df044a5961518ba390161.webp 400w,
+/project/example/finding_hu609940be1dc2a773f6ba22ab277e1fac_276021_026efacca710a50d041e6455b223b620.webp 760w,
+/project/example/finding_hu609940be1dc2a773f6ba22ab277e1fac_276021_1200x1200_fit_q100_h2_lanczos_3.webp 1200w"
+src="https://marlietandoc.github.io/project/example/finding_hu609940be1dc2a773f6ba22ab277e1fac_276021_bf926a7ad25df044a5961518ba390161.webp"
+width="760"
+height="555"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;p>We are currently collecting high-resolution neuroimaging data (fMRI) where we will examine how memory biases manifest in the human brain. We will then compare how memory representations in the artificial neural network are the same or different as memory representations in the brain.&lt;/p>
 &lt;p>&lt;strong> My Role: &lt;/strong> I led experimental design, programmed task-based experiments (e.g. memory games) in Javascript and Python, assisted in securing grant funding (&amp;gt;$200k), stimulus creation, develop, wrangled and analyzed data in R, collected data on Amazon Mechanical Turk.&lt;/p>
 &lt;p>I recently presented this work as a talk at
 &lt;a href="https://www.sfn.org/meetings/neuroscience-2022" target="_blank">Neuroscience '22.&lt;/a>
@@ -6,11 +34,11 @@
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="SfN 2022 Talk" srcset="
-/project/example/sfntalk_hu7e311c80e184773b46f59acec21e9dea_458404_d224ea64292da8178df7e8a90ec30709.webp 400w,
-/project/example/sfntalk_hu7e311c80e184773b46f59acec21e9dea_458404_af9fa9d667270b758298d9cc588fcf94.webp 760w,
-/project/example/sfntalk_hu7e311c80e184773b46f59acec21e9dea_458404_1200x1200_fit_q100_h2_lanczos.webp 1200w"
-src="https://marlietandoc.github.io/project/example/sfntalk_hu7e311c80e184773b46f59acec21e9dea_458404_d224ea64292da8178df7e8a90ec30709.webp"
-width="570"
+/project/example/sfntalk_hu3bc24b6a760c3562e9b71ad8f4ea7671_434987_fe12c11cbbfa26d67258e27fe4a0503c.webp 400w,
+/project/example/sfntalk_hu3bc24b6a760c3562e9b71ad8f4ea7671_434987_34710ba67f0e1f871b08e92d8f358dec.webp 760w,
+/project/example/sfntalk_hu3bc24b6a760c3562e9b71ad8f4ea7671_434987_1200x1200_fit_q100_h2_lanczos.webp 1200w"
+src="https://marlietandoc.github.io/project/example/sfntalk_hu3bc24b6a760c3562e9b71ad8f4ea7671_434987_fe12c11cbbfa26d67258e27fe4a0503c.webp"
+width="706"
 height="760"
 loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
@@ -165,7 +193,7 @@ console.log('code block');
 &lt;p>Wowchemy supports the popular &lt;a href="https://plot.ly/" target="_blank" rel="noopener">Plotly&lt;/a> format for interactive charts.&lt;/p>
 &lt;p>Save your Plotly JSON in your page folder, for example &lt;code>line-chart.json&lt;/code>, and then add the &lt;code>{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code> shortcode where you would like the chart to appear.&lt;/p>
 &lt;p>Demo:&lt;/p>
-&lt;div id="chart-135624987" class="chart">&lt;/div>
+&lt;div id="chart-817692354" class="chart">&lt;/div>
 &lt;script>
 (function() {
 let a = setInterval( function() {
@@ -174,7 +202,7 @@ return;
 }
 clearInterval( a );
 Plotly.d3.json("./line-chart.json", function(chart) {
-Plotly.plot('chart-135624987', chart.data, chart.layout, {responsive: true});
+Plotly.plot('chart-817692354', chart.data, chart.layout, {responsive: true});
 });
 }, 500 );
 })();
