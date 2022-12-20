@@ -4,7 +4,14 @@
 &lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="project/example/my_image.png" alt="image alt text" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img alt="SfN 2022 Talk" srcset="
+/project/example/sfntalk_hu7e311c80e184773b46f59acec21e9dea_458404_d224ea64292da8178df7e8a90ec30709.webp 400w,
+/project/example/sfntalk_hu7e311c80e184773b46f59acec21e9dea_458404_af9fa9d667270b758298d9cc588fcf94.webp 760w,
+/project/example/sfntalk_hu7e311c80e184773b46f59acec21e9dea_458404_1200x1200_fit_q100_h2_lanczos.webp 1200w"
+src="https://marlietandoc.github.io/project/example/sfntalk_hu7e311c80e184773b46f59acec21e9dea_458404_d224ea64292da8178df7e8a90ec30709.webp"
+width="570"
+height="760"
+loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
 &lt;p>&lt;strong> My Role: &lt;/strong>As a psychology researcher, my role on this project was to develop, code up (Python), and administer a battery of 6 tasks that tap into meaningful markers of cognitive perfroamnce, collaborate with engineers and chemists to design an experiment and conduct a thoughtful literature review, as well as to collect, and analyze behavioral data (A/B test). I worked closely with engineers to advocate for how human/user psychology works and interact while integrating their design constraints into our research plans. How do design experiments and surveys that humans can intuiively interact with. I also presented earlier versions of this work at a XSEED conference (Toronto, Canada), an initiative meant to tackle complex, multidisciplinary challenges.&lt;/p></description></item><item><title>Impacts of indoor air quality on cognitive performance</title><link>https://marlietandoc.github.io/project/iaq/</link><pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate><guid>https://marlietandoc.github.io/project/iaq/</guid><description>&lt;p>Poor air quality is related to all sorts of health consequences. But only recently have we started to test how air quality impacts cognitive outcomes in real-time.&lt;/p>
