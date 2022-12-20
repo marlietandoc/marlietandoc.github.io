@@ -16,7 +16,7 @@ image:
 #links:
  #- name: CO2 Paper
  #  url: 'https://onlinelibrary.wiley.com/doi/abs/10.1111/ina.12706'
- #- name: Essential Oil Peper
+ #- name: Essential Oil Paper
    #url: 'https://onlinelibrary.wiley.com/doi/epdf/10.1111/ina.12919'
 
 # Slides (optional).
