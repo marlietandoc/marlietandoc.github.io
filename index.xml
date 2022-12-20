@@ -28,8 +28,8 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;/p>
 &lt;p>We are currently collecting high-resolution neuroimaging data (fMRI) where we will examine how memory biases manifest in the human brain. We will then compare how memory representations in the artificial neural network are the same or different as memory representations in the brain.&lt;/p>
 &lt;p>&lt;strong> My Role: &lt;/strong> I led experimental design, programmed task-based experiments (e.g. memory games) in Javascript and Python, assisted in securing grant funding (&amp;gt;$200k), stimulus creation, develop, wrangled and analyzed data in R, collected data on Amazon Mechanical Turk.&lt;/p>
-&lt;p>I recently presented this work as a talk at
-&lt;a href="https://www.sfn.org/meetings/neuroscience-2022" target="_blank">Neuroscience '22.&lt;/a>
+&lt;p>I also recently presented this work as a talk at
+&lt;a href="https://www.sfn.org/meetings/neuroscience-2022" target="_blank">Neuroscience '22 in San Diego&lt;/a>
 , one of the biggest science conferences in the world.
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
@@ -193,7 +193,7 @@ console.log('code block');
 &lt;p>Wowchemy supports the popular &lt;a href="https://plot.ly/" target="_blank" rel="noopener">Plotly&lt;/a> format for interactive charts.&lt;/p>
 &lt;p>Save your Plotly JSON in your page folder, for example &lt;code>line-chart.json&lt;/code>, and then add the &lt;code>{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code> shortcode where you would like the chart to appear.&lt;/p>
 &lt;p>Demo:&lt;/p>
-&lt;div id="chart-186743592" class="chart">&lt;/div>
+&lt;div id="chart-481735296" class="chart">&lt;/div>
 &lt;script>
 (function() {
 let a = setInterval( function() {
@@ -202,7 +202,7 @@ return;
 }
 clearInterval( a );
 Plotly.d3.json("./line-chart.json", function(chart) {
-Plotly.plot('chart-186743592', chart.data, chart.layout, {responsive: true});
+Plotly.plot('chart-481735296', chart.data, chart.layout, {responsive: true});
 });
 }, 500 );
 })();
