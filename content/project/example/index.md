@@ -1,6 +1,6 @@
 ---
 title: Memory errors in behavior, brains, and machines
-summary: Our memories are not perfect recordings of the past. But are prone to bias and misinformation. As part of my PhD work, I have been identifying what kind of memories are most susceptible to such biases. By combining behavioral experiments, fMRI, and neural networks, we show that memory biases similarly exist in humans and machines. And we find, that these are not just random errors, but are a product of an optimal learning system.
+summary: Our memories are not perfect recordings of the past. But are prone to error, misinformation, and bias. As part of my PhD work, I have been identifying what memories are most susceptible to such biases. By combining behavioral experiments, fMRI, and neural networks, we show that memory biases similarly exist in humans and machines. And we find, that the existence of these biases is not a random error, but are a product of an optimal learning system.
 
 
 
@@ -42,7 +42,7 @@ We are currently collecting high-resolution neuroimaging data (fMRI) where we wi
 
 <strong> My Role: </strong> I led experimental design, programmed task-based experiments (e.g. memory games) in Javascript and Python, assisted in securing grant funding (>$200k), stimulus creation, develop, wrangled and analyzed data in R, collected data on Amazon Mechanical Turk.
 
-I recently presented this work as a talk at {{< staticref "https://www.sfn.org/meetings/neuroscience-2022" "newtab" >}}Neuroscience '22.{{< /staticref >}}, one of the biggest science conferences in the world.
+I also recently presented this work as a talk at {{< staticref "https://www.sfn.org/meetings/neuroscience-2022" "newtab" >}}Neuroscience '22 in San Diego{{< /staticref >}}, one of the biggest science conferences in the world.
 ![SfN 2022 Talk](sfntalk.jpg)
 
 
