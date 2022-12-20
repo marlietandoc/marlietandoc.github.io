@@ -29,7 +29,16 @@ links:
 slides: = ""
 ---
 
-To test this we created memory games where we tested how people's memory for colors was distorted. We find that there were bigger memory biases for information that is shared across experiences, and weaker memory biases for more idiosyncratic information. By examining the neural activity of this information in a neural network model we find something similar, where the neural patterns in the model are more distorted for shared information that it is for idiosyncratic information. We are currently collecting high-resolution neuroimaging data (fMRI) where we will examine how memory biases manifest in the human brain. We will then compare how memory representations in the artificial neural network are the same or different as memory representations in the brain. 
+We created memory games where participants had to memorize the colors of different cartoon satellites.
+
+![Memory game visualization](memorygame.png)
+
+We then tested how people's memory for colors was distorted. We find that there were bigger memory biases for information that is shared across experiences, and weaker memory biases for more idiosyncratic information. By examining the neural activity of this information in a neural network model we find something similar, where the neural patterns in the model are more distorted for shared information that it is for idiosyncratic information. 
+
+![Main finding](finding.png)
+
+
+We are currently collecting high-resolution neuroimaging data (fMRI) where we will examine how memory biases manifest in the human brain. We will then compare how memory representations in the artificial neural network are the same or different as memory representations in the brain. 
 
 <strong> My Role: </strong> I led experimental design, programmed task-based experiments (e.g. memory games) in Javascript and Python, assisted in securing grant funding (>$200k), stimulus creation, develop, wrangled and analyzed data in R, collected data on Amazon Mechanical Turk.
 
