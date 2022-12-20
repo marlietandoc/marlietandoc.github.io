@@ -36,6 +36,8 @@ To do this, we created memory games where participants memorized the colors of d
 
 In humans (left), we find that there were bigger memory biases for information that is shared across experiences (shared features), and weaker memory biases for more idiosyncratic information (unique features). By examining the neural activity of this information in a neural network model we find something similar, where the neural patterns in the model are more distorted for shared information that it is for idiosyncratic information. This shows that both human and machine learners, which are sensitive to how informatino covaries across experiences, will show memory biases that reflect this coding.
 
+This makes sense if we learn information across memories are related, it is more likely we will mix up the details. But if we learn that information is idioscynratic (something that ML models need to learn to prevent overfitting). This shows a perhaps negative outcome of an adaptive learning system.
+
 ![Main finding](finding.png)
 
 We are currently collecting high-resolution neuroimaging data (fMRI) where we will examine how memory biases manifest in the human brain. We will then compare how memory representations in the artificial neural network are the same or different as memory representations in the brain. 
