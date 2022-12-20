@@ -28,13 +28,13 @@ links:
 #   Otherwise, set `slides = ""`.
 slides: = ""
 ---
-Information varies in how generalizable or specific it is across experiences. For example, as we encounter birds we can learn that there are shared features that link these experiences together (birds can fly and lay eggs). But at the same time, we can also learn that there are unique features that set our experiences apart (such as that flamingos have long legs). Here we test whether or not people misremember feature information differently depending on whether it is shared or unique.
+Information varies in how generalizable or specific it is across experiences. For example, as we encounter birds we can learn that there are shared features that link these experiences together (birds can fly and lay eggs). But at the same time, we can also learn that there are unique features that set our experiences apart (such as that flamingos have long legs). Here we test whether or not people misremember information differently depending on whether it is shared or unique.
 
-To do this, we created memory games where participants had to memorize the colors of different cartoon satellites. We then tested how people's memory for colors was distorted We also trained a neural network of the hippocampus on the same satellites to see if it showed similar memory biases as humans do 
+To do this, we created memory games where participants memorized the colors of different cartoon satellites. We then tested how people's memory for colors was distorted based on whether or not that satellite part was shared or unique. We also trained a neural network of the hippocampus on the same satellites to see if it showed similar memory biases as humans do 
  
 ![Memory game visualization](memorygame.png)
 
-In humans (left), we find that there were bigger memory biases for information that is shared across experiences (shared features), and weaker memory biases for more idiosyncratic information (unique features). By examining the neural activity of this information in a neural network model we find something similar, where the neural patterns in the model are more distorted for shared information that it is for idiosyncratic information. 
+In humans (left), we find that there were bigger memory biases for information that is shared across experiences (shared features), and weaker memory biases for more idiosyncratic information (unique features). By examining the neural activity of this information in a neural network model we find something similar, where the neural patterns in the model are more distorted for shared information that it is for idiosyncratic information. This shows that both human and machine learners, which are sensitive to how informatino covaries across experiences, will show memory biases that reflect this coding.
 
 ![Main finding](finding.png)
 
