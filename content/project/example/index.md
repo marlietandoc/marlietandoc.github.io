@@ -28,15 +28,15 @@ links:
 #   Otherwise, set `slides = ""`.
 slides: = ""
 ---
+Information varies in how generalizable or specific it is across experiences. For example, as we encounter birds we can learn that there are shared features that link these experiences together (birds can fly and lay eggs). But at the same time, we can also learn that there are unique features that set our experiences apart (such as that flamingos have long legs). Here we test whether or not people misremember feature information differently depending on whether it is shared or unique.
 
-We created memory games where participants had to memorize the colors of different cartoon satellites.
-
+To do this, we created memory games where participants had to memorize the colors of different cartoon satellites. We then tested how people's memory for colors was distorted We also trained a neural network of the hippocampus on the same satellites to see if it showed similar memory biases as humans do 
+ 
 ![Memory game visualization](memorygame.png)
 
-We then tested how people's memory for colors was distorted. We find that there were bigger memory biases for information that is shared across experiences, and weaker memory biases for more idiosyncratic information. By examining the neural activity of this information in a neural network model we find something similar, where the neural patterns in the model are more distorted for shared information that it is for idiosyncratic information. 
+In humans (left), we find that there were bigger memory biases for information that is shared across experiences (shared features), and weaker memory biases for more idiosyncratic information (unique features). By examining the neural activity of this information in a neural network model we find something similar, where the neural patterns in the model are more distorted for shared information that it is for idiosyncratic information. 
 
 ![Main finding](finding.png)
-
 
 We are currently collecting high-resolution neuroimaging data (fMRI) where we will examine how memory biases manifest in the human brain. We will then compare how memory representations in the artificial neural network are the same or different as memory representations in the brain. 
 
