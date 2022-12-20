@@ -3,7 +3,7 @@ title: MDRS '22 conference totes
 Summary: I printed a couple hundred of these for an international conference on memory. I combined {{< staticref "https://openai.com/dall-e-2/" "newtab" >}}DALL-E-2{{< /staticref >}} (AI-generated art), Illustrator, and many prompt attempts. Winning prompt “Brain hot-air balloon floating over the skyline of Philadelphia, Children’s illustration"
 tags:
   - Research
-date: '2021-04-27T00:00:00Z'
+date: '2021-12-20T00:00:00Z'
 
 
 
