@@ -29,9 +29,12 @@ links:
 slides: = ""
 ---
 
-I recently presented this work as a talk at {{< staticref "https://www.sfn.org/meetings/neuroscience-2022" "newtab" >}} Neuroscience '22.{{< /staticref >}}, one of the biggest science conferences in the world.
+To test this we created memory games where we tested how people's memory for colors was distorted. We find that there were bigger memory biases for information that is shared across experiences, and weaker memory biases for more idiosyncratic information. By examining the neural activity of this information in a neural network model we find something similar, where the neural patterns in the model are more distorted for shared information that it is for idiosyncratic information.We are currently collecting high-resolution neuroimaging data (fMRI) where we will examine how memory biases manifest in the human brain. We will then compare how memory representations in the artificial neural network are the same or different as memory representations in the brain. 
 
+
+<strong> My Role: </strong> I led experimental design, programmed task-based experiments (e.g. memory games) in Javascript and Python, stimulus creation,  develop, wrangled and analyzed data in R, collected data on Amazon Mechanical Turk.
+
+I recently presented this work as a talk at {{< staticref "https://www.sfn.org/meetings/neuroscience-2022" "newtab" >}}Neuroscience '22.{{< /staticref >}}, one of the biggest science conferences in the world.
 ![SfN 2022 Talk](sfntalk.jpg)
 
-<strong> My Role: </strong>As a psychology researcher, my role on this project was to develop, code up (Python), and administer a battery of 6 tasks that tap into meaningful markers of cognitive perfroamnce, collaborate with engineers and chemists to design an experiment and conduct a thoughtful literature review, as well as to collect, and analyze behavioral data (A/B test). I worked closely with engineers to advocate for how human/user psychology works and interact while integrating their design constraints into our research plans. How do design experiments and surveys that humans can intuiively interact with. I also presented earlier versions of this work at a XSEED conference (Toronto, Canada), an initiative meant to tackle complex, multidisciplinary challenges.
 
