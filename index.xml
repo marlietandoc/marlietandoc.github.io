@@ -17,12 +17,12 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="Main finding" srcset="
-/project/example/finding_hu609940be1dc2a773f6ba22ab277e1fac_276021_bf926a7ad25df044a5961518ba390161.webp 400w,
-/project/example/finding_hu609940be1dc2a773f6ba22ab277e1fac_276021_026efacca710a50d041e6455b223b620.webp 760w,
-/project/example/finding_hu609940be1dc2a773f6ba22ab277e1fac_276021_1200x1200_fit_q100_h2_lanczos_3.webp 1200w"
-src="https://marlietandoc.github.io/project/example/finding_hu609940be1dc2a773f6ba22ab277e1fac_276021_bf926a7ad25df044a5961518ba390161.webp"
+/project/example/finding_hu2836d793b2940ceb49afc0e2a2f3e7eb_410382_6c54e2805a79410b7aff6169b1f39e42.webp 400w,
+/project/example/finding_hu2836d793b2940ceb49afc0e2a2f3e7eb_410382_f89b03094ce1937eb7cf6139d6a8013c.webp 760w,
+/project/example/finding_hu2836d793b2940ceb49afc0e2a2f3e7eb_410382_1200x1200_fit_q100_h2_lanczos_3.webp 1200w"
+src="https://marlietandoc.github.io/project/example/finding_hu2836d793b2940ceb49afc0e2a2f3e7eb_410382_6c54e2805a79410b7aff6169b1f39e42.webp"
 width="760"
-height="555"
+height="548"
 loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
@@ -193,7 +193,7 @@ console.log('code block');
 &lt;p>Wowchemy supports the popular &lt;a href="https://plot.ly/" target="_blank" rel="noopener">Plotly&lt;/a> format for interactive charts.&lt;/p>
 &lt;p>Save your Plotly JSON in your page folder, for example &lt;code>line-chart.json&lt;/code>, and then add the &lt;code>{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code> shortcode where you would like the chart to appear.&lt;/p>
 &lt;p>Demo:&lt;/p>
-&lt;div id="chart-481735296" class="chart">&lt;/div>
+&lt;div id="chart-394521687" class="chart">&lt;/div>
 &lt;script>
 (function() {
 let a = setInterval( function() {
@@ -202,7 +202,7 @@ return;
 }
 clearInterval( a );
 Plotly.d3.json("./line-chart.json", function(chart) {
-Plotly.plot('chart-481735296', chart.data, chart.layout, {responsive: true});
+Plotly.plot('chart-394521687', chart.data, chart.layout, {responsive: true});
 });
 }, 500 );
 })();
@@ -561,7 +561,7 @@ data-background-image="/media/boards.jpg"
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;hr>
 &lt;h1 id="questions">Questions?&lt;/h1>
 &lt;p>&lt;a href="https://discord.gg/z8wNYzb" target="_blank" rel="noopener">Ask&lt;/a>&lt;/p>
-&lt;p>&lt;a href="https://wowchemy.com/docs/content/slides/" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/p></description></item><item><title>Human Cognition, Patterning and Deacon’s Absentials: The Value of Absent-Mindedness in the Sense of Minding What Is Absent</title><link>https://marlietandoc.github.io/publication/deacon/</link><pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate><guid>https://marlietandoc.github.io/publication/deacon/</guid><description/></item><item><title>Thinking in Patterns and the Pattern of Human Thought as Contrasted with AI Data Processing</title><link>https://marlietandoc.github.io/publication/loganai/</link><pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate><guid>https://marlietandoc.github.io/publication/loganai/</guid><description/></item><item><title>The brain's internal clock</title><link>https://marlietandoc.github.io/project/tod/</link><pubDate>Tue, 27 Apr 2010 00:00:00 +0000</pubDate><guid>https://marlietandoc.github.io/project/tod/</guid><description>&lt;p>How do different brain states influence the ability to generalize what we know to new scenarios? Using a concept learning task, we assess the effect of time of day on generalization in 331 undergraduates who were brought into the lab either in the morning (9am) or evening (9pm). We found with better generalization in the morning than the evening. Consistent with work that the brain is in a lower state of lowered inhibition in the mornin, may facilitate spreading activation between otherwise separate memories, promoting generalization and transfer to new contexts.&lt;/p>
+&lt;p>&lt;a href="https://wowchemy.com/docs/content/slides/" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/p></description></item><item><title>Human Cognition, Patterning and Deacon’s Absentials: The Value of Absent-Mindedness in the Sense of Minding What Is Absent</title><link>https://marlietandoc.github.io/publication/deacon/</link><pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate><guid>https://marlietandoc.github.io/publication/deacon/</guid><description/></item><item><title>Thinking in Patterns and the Pattern of Human Thought as Contrasted with AI Data Processing</title><link>https://marlietandoc.github.io/publication/loganai/</link><pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate><guid>https://marlietandoc.github.io/publication/loganai/</guid><description/></item><item><title>Learning is best in the morning</title><link>https://marlietandoc.github.io/project/tod/</link><pubDate>Tue, 27 Apr 2010 00:00:00 +0000</pubDate><guid>https://marlietandoc.github.io/project/tod/</guid><description>&lt;p>How do different brain states influence the ability to generalize what we know to new scenarios? Using a concept learning task, we assess the effect of time of day on generalization in 331 undergraduates who were brought into the lab either in the morning (9am) or evening (9pm). We found with better generalization in the morning than the evening. Consistent with work that the brain is in a lower state of lowered inhibition in the mornin, may facilitate spreading activation between otherwise separate memories, promoting generalization and transfer to new contexts.&lt;/p>
 &lt;p>suggesting that in the morning inhibition in the brain is reduced allowing you to transfer what you learned to new scenarios.&lt;/p>
 &lt;p>My role: Wrote the paper, made figures and visualizations (ggplot2, Illustrator), analyzed data and performed statistics (regression, correlation, ANOVA),
 Example visualizations:&lt;/p></description></item><item><title/><link>https://marlietandoc.github.io/admin/config.yml</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://marlietandoc.github.io/admin/config.yml</guid><description/></item></channel></rss>
