@@ -18,7 +18,7 @@ organizations:
     url: https://www.upenn.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Researcher, psychologist, neuroscientist
+bio: ''
 
 # Interests to show in About widget
 interests:

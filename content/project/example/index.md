@@ -31,7 +31,7 @@ slides: = ""
 
 I recently presented this work as a talk at {{< staticref "https://www.sfn.org/meetings/neuroscience-2022" "newtab" >}} Neuroscience '22.{{< /staticref >}}, one of the biggest science conferences in the world.
 
-![image alt text](project/example/my_image.png)
+![SfN 2022 Talk](sfntalk.jpg)
 
 <strong> My Role: </strong>As a psychology researcher, my role on this project was to develop, code up (Python), and administer a battery of 6 tasks that tap into meaningful markers of cognitive perfroamnce, collaborate with engineers and chemists to design an experiment and conduct a thoughtful literature review, as well as to collect, and analyze behavioral data (A/B test). I worked closely with engineers to advocate for how human/user psychology works and interact while integrating their design constraints into our research plans. How do design experiments and surveys that humans can intuiively interact with. I also presented earlier versions of this work at a XSEED conference (Toronto, Canada), an initiative meant to tackle complex, multidisciplinary challenges.
 
