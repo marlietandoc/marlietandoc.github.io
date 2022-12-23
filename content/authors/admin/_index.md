@@ -77,7 +77,7 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-For <strong> 6+ years</strong>, I have conducted research on human behavior and cognition, with a focus on understanding <strong>how people learn, process, and remember information </strong>. I am currently a PhD Student at UPenn in the {{< staticref "https://www.schapirolab.org/home" "newtab" >}}Computational Cognitive Neuroscience Lab {{< /staticref >}} where we study these topics by integrating behavioral studies, neuroimaging, and neural networks.
+For <strong> 6+ years</strong>, I have conducted a wide of research projects on human behavior and cognition, with a focus on understanding <strong>how people learn, process, and remember information </strong>. I am currently a PhD Student at UPenn in the {{< staticref "https://www.schapirolab.org/home" "newtab" >}}Computational Cognitive Neuroscience Lab {{< /staticref >}} where we study these topics by integrating behavioral studies, neuroimaging, and neural networks.
 
 I love working as a team to identify research questions, to develop innovative and interdisciplinary research methods, and to uncover data-driven stories to share with others. I am <strong> currently seeking an internship in Summer '23 </strong> where I can continue to grow as a researcher.
 
