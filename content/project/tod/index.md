@@ -1,6 +1,6 @@
 ---
 title: When is the best time to learn?
-summary:  Not a morning person? Most below the age of 30 think so. In a collaboration with Harvard Medical School, we tested whether or not college students do in fact learn and process new information worse in the morning. Remarkably, <strong> we find that the morning is actually the best time to learn new information </strong>, especially when we have to go beyond what we learned, and transfer it to new scenarios.
+summary:  Not a morning person? Most below the age of 30 think so. In a collaboration with Harvard Medical School, we tested whether or not college students do in fact learn and process new information worse in the morning. Remarkably, <strong> we find that the morning is the best time to learn new information</strong>, especially when we have to go beyond what we learned, and transfer it to new scenarios.
 
 tags:
   - Research
@@ -32,4 +32,4 @@ It is one thing to remember information. But it is another to take what you know
 
  suggesting that in the morning inhibition in the brain is reduced allowing you to transfer what you learned to new scenarios.
 
-My role: As part of my Master's thesis, I wrangled, analyzed, and visualized data across 7 experiments. I also wrote the paper.
+<strong>My role: As part of my Master's thesis, I wrangled, analyzed, and visualized data across 7 experiments. I also wrote the paper. </strong>
