@@ -27,9 +27,8 @@ links:
 #   Otherwise, set `slides = ""`.
 slides: = ""
 ---
+<strong>My role</strong>: As part of my Master's thesis, I wrangled, analyzed, and visualized data from 7 experiments. I also wrote up the {{< staticref "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0255423" "newtab" >}}paper{{< /staticref >}} and made the figures. 
 
-It is one thing to remember information. But it is another to take what you know and transfer it to new scenarios. Like applying a math concept to solve  new problem or being ability to improvise in jazz in the right scales. We have known for a while that brain activity fluctuates systematically throughout across the 24-hour clock. We were interested how time of day (and sleep) affects this ability to generalize. Across 7 experiments, we brought in 331 undergraduates into the lab either in the morning (8am) or evening (8pm). We found with better generalization in the morning than the evening. Consistent with work that the brain is in a state of low inhibitory control in the morning, this means that the brain is in a state where it is letting  separate memories, promoting generalization and transfer to new contexts. We didn't find that sleep helped generalization.
+It is one thing to remember information. But it is another to take what you know and transfer it to new scenarios. Think applying a math concept to solve  a new problem or improvising in live jazz. Because of known differences in brain activity throughout the day, we were interested how time of day affects this ability to generalize. Across 7 experiments, we brought in 331 undergraduates into the lab either in the morning (8am) or evening (8pm) and had them learn new concepts, in which they had to later generalize to never-before-encountered scenarios. We found much better generalization in the morning than the evening. Consistent with what we know about the brain, this work suggests that reduced neuronal inhibition can help you transfer what you learned to new scenarios.
 
- suggesting that in the morning inhibition in the brain is reduced allowing you to transfer what you learned to new scenarios.
 
-<strong>My role: As part of my Master's thesis, I wrangled, analyzed, and visualized data across 7 experiments. I also wrote the paper. </strong>
