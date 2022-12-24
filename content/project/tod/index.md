@@ -1,6 +1,6 @@
 ---
 title: When is the best time of day to learn?
-summary:  Not a morning person? Most below the age of 30 think so. In a collab with Harvard Medical School, we tested if college student's ability to learn and process new information is actually worse in the morning. We find that the morning is in fact the best time to learn new information, especially when we have to apply what we learned to new scenarios.
+summary:  Not a morning person? Most below the age of 30 think so. In a collaboration with Harvard Medical School, we tested if the ability for college students to learn and process new information is in fact worse in the morning. Remarkably, we find that the morning is actually the best time to learn new information, especially when we have to go beyond what we learned, and transfer it to new scenarios.
 
 tags:
   - Research
