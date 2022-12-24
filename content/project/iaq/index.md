@@ -3,7 +3,7 @@ title: Impacts of indoor air quality on cognitive performance
 summary: Although we know that poor air quality outdoors can be poor, we also spend a lot of time indoors, such as in the workplace. In this wide-scale collaboration between psychologists, engineers, and chemists, we are researching how indoor air quality, such as CO2 levels and common household products, impact everyday cognition and decision-making. We find that naturally-occuring levels of CO2, and particulate matter emitted from essential oils can be bad for cognition. This work provides actionable insights into why good building ventilation is so important.
 tags:
   - Research
-date: '2021-04-27T00:00:00Z'
+date: '2022-11-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
