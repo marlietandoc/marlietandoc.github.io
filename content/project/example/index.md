@@ -1,6 +1,6 @@
 ---
 title: Memory errors in behavior, brains, and machines
-summary: Our memories are not perfect recordings of the past. But instead are prone to error, misinformation, and bias. As part of my PhD, I have been identifying what memories are most susceptible to such errors. By combining behavioral experiments, fMRI, and neural networks, we show that similar kinds of memory biases exist in humans and machines. We also find that these biases are not random mistakes, but are a product of an optimal learning system.
+summary: Our memories are not perfect recordings of the past. But instead are prone to error, misinformation, and bias. As part of my PhD, I have been identifying what memories are most susceptible to such errors. By combining behavioral experiments, fMRI, and neural networks, we show that remarkably similar memory errors exist in humans and machines. We also find that these biases are not random mistakes, but are a product of an optimal learning system.
 
 
 
@@ -30,8 +30,7 @@ slides: = ""
 ---
 Information differs in how generalizable or specific it is across experiences. For example, as we encounter birds we can learn that there are shared features that link these experiences together (birds can fly and lay eggs). But at the same time, we can also learn that there are unique features that set experiences apart (flamingos are pink and have long legs). We tested whether or not people misremember things differently depending on whether or not it is shared or unique.
 
-In short we created online memory games where participants memorized the colors of cartoon satellite categories. We then tested how people's memory for colors were distorted based on whether or not that satellite part was shared or unique across satellites (similar to the bird example above)
- 
+In short we created online memory games where participants memorized the colors of cartoon satellite categories. We then tested how people's memory for colors were distorted based on whether or not that satellite part was shared or unique across satellites (like in the bird example above). 
 ![Memory game visualization](memorygame.png)
 
 We hypothesized that if a part was shared across satellites then you might misremember its color as being more similar to those other satellites, a kind of memory error or false memory. We also trained a biologically-plausible neural network model on the same satellites to see if it would also show this memory error.
