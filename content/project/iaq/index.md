@@ -25,7 +25,7 @@ links:
 #   Otherwise, set `slides = ""`.
 slides: = ""
 ---
-<strong>My Role</strong>: As the psychologist on this project, I developed, programmed, and administered a battery of 6 cognitive tasks to participants that tap into meaningful markers of cognitive performance. I worked closely with engineers and chemists to design tightly controlled experiments and I advised on psychological topics in a literature review. Throughout this project, I worked closely with engineers and advocated for how human/user psychology works.
+<strong>My Role</strong>: I developed, programmed, and administered 6 cognitive tasks that tap into different types of cognition. I worked closely with engineers and chemists to design studies according to their constraints, while also advocating for human/user psychology and how cognition works. For the literature review, I contributed towards operationalizing what kinds of tasks were used in prior studies and what cognitive measures (i.e. attention, memory, etc.) they were assessing.
 
 Poor air quality is related to many health consequences. But usually air quality has been studied outdoors and health consequences emerge across years. Because we spend so much time inside (such as at work), we tested how everyday exposure we have to air pollutants indoors negatively impact cognitive performance in real-time.
 
