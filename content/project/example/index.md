@@ -1,6 +1,6 @@
 ---
 title: Memory errors in behavior, brains, and machines
-summary: Our memories are not perfect recordings of the past. But instead are prone to error, misinformation, and bias. As part of my PhD work, I have been identifying what memories are most susceptible to such biases. By combining behavioral experiments, fMRI, and neural networks, we show that memory biases similarly exist in humans and machines. We find that these biases are not random mistakes, but are a product of an optimal learning system.
+summary: Our memories are not perfect recordings of the past. But instead are prone to error, misinformation, and bias. As part of my PhD, I have been identifying what memories are most susceptible to such biases. By combining behavioral experiments, fMRI, and neural networks, we show that similar memory biases exist in humans and machines. We also find that these biases are not random mistakes, but are a product of an optimal learning system.
 
 
 
@@ -28,23 +28,24 @@ links:
 #   Otherwise, set `slides = ""`.
 slides: = ""
 ---
-Information varies in how generalizable or specific it is across experiences. For example, as we encounter birds we can learn that there are shared features that link these experiences together (birds can fly and lay eggs). But at the same time, we can also learn that there are unique features that set our experiences apart (such as that flamingos have long legs). Here we test whether or not people misremember information differently depending on whether it is shared or unique.
+Information varies in how generalizable or specific it is across experiences. For example, as we encounter birds we can learn that there are shared features that link these experiences together (birds can fly and lay eggs). But at the same time, we can also learn that there are unique features that set experiences apart (flamingos are pink and have long legs). We tested whether or not people misremember things differently depending on whether or not it is shared or unique.
 
-To do this, we created memory games where participants memorized the colors of different cartoon satellites. We then tested how people's memory for colors was distorted based on whether or not that satellite part was shared or unique. We also trained a neural network of the hippocampus on the same satellites to see if it showed similar memory biases as humans do 
+To do this, we created online memory games where participants memorized the colors of cartoon satellites. We then tested how people's memory for colors were distorted based on whether or not that satellite part was shared or unique. We also trained a neural network model of the hippocampus on the same satellites to see if it the mode would also show memory biases.
  
 ![Memory game visualization](memorygame.png)
 
-In humans (left), we find that there were bigger memory biases for information that is shared across experiences (shared features), and weaker memory biases for more idiosyncratic information (unique features). By examining the neural activity of this information in a neural network model (right) we find something similar, where the neural patterns in the model are more distorted for shared information that it is for idiosyncratic information. This shows that both human and machine learners, which are sensitive to how informatino covaries across experiences, will show memory biases that reflect this coding.
-
-This makes sense if we learn information across memories are related, it is more likely we will mix up the details. But if we learn that information is idioscynratic (something that ML models need to learn to prevent overfitting). This shows a perhaps negative outcome of an adaptive learning system.
+In humans, we find that memory biases were the strongest for information that was shared across experiences (shared features). By examining how the hidden layers of a neural network model represent information,  we find a strikingly similar effect where the model's internal representations are also distorting shared features the most.
 
 ![Main finding](finding.png)
 
-We are currently collecting high-resolution neuroimaging data (fMRI) where we will examine how memory biases manifest in the human brain. We will then compare how memory representations in the artificial neural network are the same or different as memory representations in the brain. 
+This shows that both human and machine learners, which are remarkable at learning how information is shared across many experiences, show memory biases that reflect learning of patterns
 
-<strong> My Role: </strong> I led experimental design, programmed task-based experiments (e.g. memory games) in Javascript and Python, assisted in securing grant funding (>$200k), stimulus creation, develop, wrangled and analyzed data in R, collected data on Amazon Mechanical Turk.
+This makes sense if we learn information across memories are related, it is more likely we will mix up the details. But if we learn that information is idioscynratic (something that ML models need to learn to prevent overfitting). This shows a perhaps negative outcome of an adaptive learning system.
 
-I also recently presented this work as a talk at {{< staticref "https://www.sfn.org/meetings/neuroscience-2022" "newtab" >}}Neuroscience '22 in San Diego{{< /staticref >}}, one of the biggest science conferences in the world.
+
+We are now collecting high-resolution neuroimaging data (fMRI) where we will examine how these memory biases manifest from human brain activity. 
+
+<strong> My Role: </strong> I led experimental design, programmed task-based experiments (e.g. memory games) in Javascript and Python, assisted in securing grant funding (>$200k), stimulus creation, develop, wrangled and analyzed data in R, collected data on Amazon Mechanical Turk. I also recently presented this work as a talk at {{< staticref "https://www.sfn.org/meetings/neuroscience-2022" "newtab" >}}Neuroscience '22 in San Diego{{< /staticref >}}, one of the biggest science conferences in the world.
 ![SfN 2022 Talk](sfntalk.jpg)
 
 
