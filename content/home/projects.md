@@ -10,7 +10,7 @@ headless: true
 weight: 65
 
 title: Selected Projects
-subtitle: 'Click on a project to read more'
+subtitle: ''
 
 content:
   # Page type to display. E.g. project.
