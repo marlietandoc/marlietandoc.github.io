@@ -19,7 +19,7 @@ links:
  - name: Slides (2022)
    url: 'project/example/tandoc_sfn_2022_website.pdf'
  - name: Video (2021)
-   url: 'https://www.youtube.com/watch?v=GUU7jgyh9VQ'
+   url: 'https://youtu.be/l6UkD4C12bA'
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
