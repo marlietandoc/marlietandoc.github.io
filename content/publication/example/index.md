@@ -30,10 +30,11 @@ publication_types: ['3']
 publication: In PsyArXiv
 publication_short:
 
-abstract: Across two experiments we show that learning in childhood is fundamentally different from learning in adulthood. For adults, learning suffers when their attention is divided. For children, remarkably, learning is the same regardless of whether their attention is divided or not. And while children’s learning is expectedly worse than adults’ when attention is undivided, children learn just as well as adults—and sometimes even better—when attention is divided. These results suggest that a “sponge” may indeed be a good metaphor for learning during childhood. Children appear to take things in regardless of whether they are trying to or not. 
+abstract: Across two experiments we show that learning in childhood is fundamentally different from learning in adulthood. For adults, learning suffers when attention is divided. For children, we find that, learning is remarkably the same regardless of whether their attention is divided or not. That is, kids learn information just as good regardless if they are trying to or doing something else entirely.  And while children’s learning is expectedly worse than adults’ when attention is undivided, children learn just as well as adults—and sometimes even better—when attention is divided. These results suggest that a “sponge” may indeed be a good metaphor for learning during childhood. Children appear to take things in regardless of whether they are trying to or not. 
 
 # Summary. An optional shortened abstract.
-summary:  As adults, we are quite good at filtering out information not relevant to us. We find evidence that children, on the other hand, just "learn about everything" regardless of whether they are trying to or not - and sometimes they learn it even better than adults do. This explains how kids might be able learn so much, so quickly — like a sponge.
+summary: Why can kids learn so much seemingly without even trying? By comparing how children and adults learn in the lab, we discovered a key reason why children might be able to learn so much from the world's around them. Children and adults pay attention to information in very different ways. We find that children are paying attention to the world in a more holistic and open-minded way, and taking in more information from their environments, like a "sponge".  Adults instead selectively attend to only one source of information and ignore and filter out everything else. While this an be a good thing for the task-at-hand, it does mean you are processing and learning less from the environment. Children might learn so much because they are just processing more information from their envirnoment!
+
 
 tags: []
 
