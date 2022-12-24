@@ -45,7 +45,7 @@ featured: false
 links:
  - name: Paper
    url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0255423
- - name: Dataset
+ - name: Data
    url: 'https://doi.org/10.1371/journal.pone.0255423.s007'
 url_dataset: ''
 url_poster: ''
