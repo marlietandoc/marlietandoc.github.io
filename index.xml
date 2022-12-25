@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Marlie</title><link>https://marlietandoc.github.io/</link><atom:link href="https://marlietandoc.github.io/index.xml" rel="self" type="application/rss+xml"/><description>Marlie</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 Dec 2022 00:00:00 +0000</lastBuildDate><image><url>https://marlietandoc.github.io/media/icon_hu85feb84b9d98f8797ec82ae0eb98f4f2_1375536_512x512_fill_lanczos_center_3.png</url><title>Marlie</title><link>https://marlietandoc.github.io/</link></image><item><title>My brain in the palm of my hand</title><link>https://marlietandoc.github.io/fun_projects/brain/</link><pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate><guid>https://marlietandoc.github.io/fun_projects/brain/</guid><description/></item><item><title>Memory errors in behavior, brains, and machines</title><link>https://marlietandoc.github.io/project/example/</link><pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate><guid>https://marlietandoc.github.io/project/example/</guid><description>&lt;p>&lt;strong> My Role&lt;/strong>: As part of my PhD work I led experimental design, programmed the experiments, assisted in securing grant funding, created the stimuli, collected data online, wrangled/analyzed data in R, and developed neuroimaging analysis pipelines.&lt;/p>
-&lt;p>&lt;strong> Summary&lt;/strong>: Information differs in how generalizable or specific it is across experiences. For example, as we encounter birds we can learn that there are shared features that link them together (birds can fly and lay eggs). But we can also learn that there are unique features that set them apart (flamingos are pink and have long legs). We tested whether or not people misremember things differently depending on whether or not it is shared across experiences.&lt;/p>
-&lt;p>In short, to do this, we created online memory games where participants memorized the colors of cartoon satellite categories. We then tested how people&amp;rsquo;s memory for colors were distorted based on whether or not that satellite part was shared or unique across satellites . We used color because it gives us an tightly-controlled and accessible way to measure how memories are being distorted. We hypothesized that if a part was shared across satellites then you might misremember its color as being more similar to those other satellites, a kind of memory error or false memory.
+&lt;p>&lt;strong> Summary&lt;/strong>: Information differs in how generalizable or specific it is across experiences. For example, as we encounter birds we can learn that there are shared features that link them together (birds can fly and lay eggs). But we can also learn that there are unique features that set them apart (flamingos are pink and have long legs). We tested whether or not people misremember things differently depending on whether or not it is shared or unique.&lt;/p>
+&lt;p>In short, to do this, we developed online memory games where participants memorized the colors of cartoon satellite categories. We then tested how people&amp;rsquo;s memory for colors were distorted based on whether or not that satellite part was shared or unique across satellites. We used color because it gives us a tightly-controlled and accessible way to measure how memories are being distorted. We hypothesized that if a part was shared across satellites people might misremember its color as being more similar to the color of the other satellites, a kind of with this blending of colors reflecting a memory error.
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="Memory game visualization" srcset="
@@ -17,12 +17,12 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="Main finding" srcset="
-/project/example/finding_hu2836d793b2940ceb49afc0e2a2f3e7eb_410382_6c54e2805a79410b7aff6169b1f39e42.webp 400w,
-/project/example/finding_hu2836d793b2940ceb49afc0e2a2f3e7eb_410382_f89b03094ce1937eb7cf6139d6a8013c.webp 760w,
-/project/example/finding_hu2836d793b2940ceb49afc0e2a2f3e7eb_410382_1200x1200_fit_q100_h2_lanczos_3.webp 1200w"
-src="https://marlietandoc.github.io/project/example/finding_hu2836d793b2940ceb49afc0e2a2f3e7eb_410382_6c54e2805a79410b7aff6169b1f39e42.webp"
+/project/example/finding_huc6ad925b8526b3d243a74817e9b94b98_366830_99b49a9cb135213f57582c57838ecbec.webp 400w,
+/project/example/finding_huc6ad925b8526b3d243a74817e9b94b98_366830_8976b141835cf201a82d0329e7e72497.webp 760w,
+/project/example/finding_huc6ad925b8526b3d243a74817e9b94b98_366830_1200x1200_fit_q100_h2_lanczos_3.webp 1200w"
+src="https://marlietandoc.github.io/project/example/finding_huc6ad925b8526b3d243a74817e9b94b98_366830_99b49a9cb135213f57582c57838ecbec.webp"
 width="760"
-height="548"
+height="516"
 loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
@@ -209,7 +209,7 @@ console.log('code block');
 &lt;p>Wowchemy supports the popular &lt;a href="https://plot.ly/" target="_blank" rel="noopener">Plotly&lt;/a> format for interactive charts.&lt;/p>
 &lt;p>Save your Plotly JSON in your page folder, for example &lt;code>line-chart.json&lt;/code>, and then add the &lt;code>{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code> shortcode where you would like the chart to appear.&lt;/p>
 &lt;p>Demo:&lt;/p>
-&lt;div id="chart-352986714" class="chart">&lt;/div>
+&lt;div id="chart-673254918" class="chart">&lt;/div>
 &lt;script>
 (function() {
 let a = setInterval( function() {
@@ -218,7 +218,7 @@ return;
 }
 clearInterval( a );
 Plotly.d3.json("./line-chart.json", function(chart) {
-Plotly.plot('chart-352986714', chart.data, chart.layout, {responsive: true});
+Plotly.plot('chart-673254918', chart.data, chart.layout, {responsive: true});
 });
 }, 500 );
 })();
