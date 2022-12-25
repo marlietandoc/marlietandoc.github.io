@@ -28,7 +28,7 @@ links:
 #   Otherwise, set `slides = ""`.
 slides: = ""
 ---
-<strong> My Role</strong>: As part of my PhD work I designed the experiments, programmed the experiments, helped secure grant funding, created the stimuli, collected online data online, wrangled/analyzed data in R, and developed neuroimaging analysis pipelines.
+<strong> My Role</strong>: As part of my PhD work I designed and programmed the experiments, helped secure grant funding, created the stimuli, collected online data online, wrangled/analyzed data in R, and developed neuroimaging analysis pipelines.
 
 <strong> Summary</strong>: Information differs in how generalizable or specific it is across experiences. For example, as we encounter birds we can learn that there are shared features that link them together (birds can fly and lay eggs). But we can also learn that there are unique features that set them apart (flamingos are pink and have long legs). We tested whether or not people misremember information differently depending on whether or not it is shared or unique.
 
