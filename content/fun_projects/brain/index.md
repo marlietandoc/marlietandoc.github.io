@@ -1,6 +1,6 @@
 ---
 title: My brain in the palm of my hand
-summary: 3D printed by transforming a MRI scan of my brain into a printable model using my labmate's {{< staticref "https://github.com/macklab/BrainMaker" "newtab" >}}code.{{< /staticref >}} Painted by me. Not actual size.
+summary: 3D printed by transforming a MRI scan of my brain into a printable model using my labmate's {{< staticref "https://github.com/macklab/BrainMaker" "newtab" >}}code.{{< /staticref >}} Painted by me. Not actual brain's size.
 tags:
   - Research
 date: '2022-12-15T00:00:00Z'
