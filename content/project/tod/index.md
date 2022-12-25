@@ -1,6 +1,6 @@
 ---
 title: When is the best time to learn?
-summary:  Not a morning person? Most below the age of 30 think so. In a collaboration with Harvard Medical School, we tested whether or not college students do in fact learn and process new information worse in the morning. Remarkably, we find that <strong> the morning is the best time to learn new information</strong>, especially when we have to go beyond what we learned, and transfer it to new scenarios.
+summary:  Not a morning person? Most people below the age of 30 would say so. But, in this collaboration with Harvard Medical School, we tested whether or not college students do in fact learn and process information worse in the morning. Remarkably, we find that <strong> the morning is actually the best time to learn new information</strong>, especially when we have to go beyond what we learned, and transfer it to new scenarios.
 
 tags:
   - Research
@@ -29,6 +29,6 @@ slides: = ""
 ---
 <strong>My role</strong>: As part of my Master's thesis, I wrangled, analyzed, and visualized data from 7 experiments. I also wrote up the {{< staticref "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0255423" "newtab" >}}paper{{< /staticref >}} and made the figures. 
 
-It is one thing to remember information. But it is another to take what you know and transfer it to new scenarios. Think applying a math concept to solve  a new problem or improvising in live jazz. Because of known differences in brain activity throughout the day, we were interested how time of day affects this ability to generalize. Across 7 experiments, we brought in 331 undergraduates into the lab either in the morning (8am) or evening (8pm) and had them learn new concepts, in which they had to later generalize to never-before-encountered scenarios. We found much better generalization in the morning than the evening. Consistent with what we know about the brain, this work suggests that reduced neuronal inhibition can help you transfer what you learned to new scenarios.
+<strong> Summary</strong>: It is one thing to remember information. But it is another to take what you know and transfer it to new scenarios. Think applying a math concept to solve  a new problem or improvising in live jazz. Because of known differences in brain activity throughout the day, we were interested how time of day affects this ability to generalize. Across 7 experiments, we brought in 331 undergraduates into the lab either in the morning (8am) or evening (8pm) and had them learn new concepts, in which they had to later generalize to never-before-encountered scenarios. We found much better generalization in the morning than the evening. Consistent with what we know about the brain, this work suggests that reduced neuronal inhibition can help you transfer what you learned to new scenarios.
 
 

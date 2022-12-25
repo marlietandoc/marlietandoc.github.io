@@ -30,16 +30,15 @@ slides: = ""
 ---
 <strong> My Role</strong>: As part of my PhD work I led experimental design, programmed the experiments, assisted in securing grant funding, created the stimuli, collected data online, wrangled/analyzed data in R, and developed neuroimaging analysis pipelines.
 
-Information differs in how generalizable or specific it is across experiences. For example, as we encounter birds we can learn that there are shared features that link them together (birds can fly and lay eggs). But we can also learn that there are unique features that set them apart (flamingos are pink and have long legs). We tested whether or not people misremember things differently depending on whether or not it is shared across experiences.
+<strong> Summary</strong>: Information differs in how generalizable or specific it is across experiences. For example, as we encounter birds we can learn that there are shared features that link them together (birds can fly and lay eggs). But we can also learn that there are unique features that set them apart (flamingos are pink and have long legs). We tested whether or not people misremember things differently depending on whether or not it is shared across experiences.
 
 In short, to do this, we created online memory games where participants memorized the colors of cartoon satellite categories. We then tested how people's memory for colors were distorted based on whether or not that satellite part was shared or unique across satellites . We used color because it gives us an tightly-controlled and accessible way to measure how memories are being distorted. We hypothesized that if a part was shared across satellites then you might misremember its color as being more similar to those other satellites, a kind of memory error or false memory.
 ![Memory game visualization](memorygame.png)
 
-
 In humans, we find that memory biases are strongest for information that is shared across experiences (shared features). In a neural network model trained on the same satellites, we find a strikingly similar effect where the model's internal hidden layer representations are also distorting shared features the most.
 ![Main finding](finding.png)
 
-This shows that both humans and neural network models—both of which are remarkable at learning patterns—show memory errors that emerge from learning these patterns. This makes sense! <strong> If we learn that certain things in the world are related, in our mind we might represent those things similarily, making it more likely we will mix up the details </strong>. We are now collecting neuroimaging data (fMRI) where we will test this directly by looking at human brain activity
+This shows that both humans and neural network models—both of which are remarkable at learning patterns—show memory errors that emerge from learning these patterns. This makes sense! <strong> If we learn that certain things in the world are related, in our mind we might represent those things similarly, making it more likely we will mix up the details </strong>. We are now collecting neuroimaging data (fMRI) where we will test this directly by looking at human brain activity
 
 I also recently presented this work as a {{< staticref "project/example/tandoc_sfn_2022_website.pdf" "newtab" >}}talk{{< /staticref >}} at {{< staticref "https://www.sfn.org/meetings/neuroscience-2022" "newtab" >}}Neuroscience '22 in San Diego{{< /staticref >}}, one of the biggest science conferences in the world.
 ![SfN 2022 Talk](sfntalk.jpg)
