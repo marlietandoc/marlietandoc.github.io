@@ -1,6 +1,6 @@
 ---
 title: Patterns in video game character preferences
-Summary: I extracted player data from an API of a popular video game (League of Legends) to explore player preferences in what kinds of characters they like to play. Code and visualizations can be found here {{< staticref "https://github.com/marlietandoc/lol_analysis" "newtab" >}}here{{</staticref >}}!"
+Summary: As a personal project, I extracted player data from an API of a popular video game (League of Legends) to explore player preferences in what kinds of characters they like to play. Analysis code and visualizations can be found {{< staticref "https://github.com/marlietandoc/lol_analysis" "newtab" >}}here{{</staticref >}}!
 tags:
   - Research
 date: '2023-01-02T00:00:00Z'
