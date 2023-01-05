@@ -1,9 +1,9 @@
 ---
-title: Patterns in preferences in video game characters
-Summary: I printed a couple hundred of these for an international conference on memory. I combined {{< staticref "https://openai.com/dall-e-2/" "newtab" >}}DALL-E-2{{< /staticref >}} (AI-generated art), Illustrator, and many prompt attempts. Winning prompt “Brain hot-air balloon floating over the skyline of Philadelphia, Children’s illustration."
+title: Patterns in video game character preferences
+Summary: I extracted players dat from an API of a popular video game (League of Legends) to explore patterns in what characters people tend to play together. Code and visualizations can be found here {{< staticref "https://github.com/marlietandoc/lol_analysis" "newtab" >}}here{< /staticref >}}!"
 tags:
   - Research
-date: '2022-12-14T00:00:00Z'
+date: '2023-01-02T00:00:00Z'
 
 
 
