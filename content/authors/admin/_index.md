@@ -32,11 +32,11 @@ education:
   courses:
     - course: PhD in Psychology
       institution: University of Pennsylvania
-      year: May 2024 (Expected)
+      year: Summer-Fall 2024
     - course: MA in Psychology
       institution: University of Pennsylvania
       year: 2020
-    - course: BSc in Psychology Research, Book & Media Studies
+    - course: BSc in Psychology, Book & Media Studies
       institution: University of Toronto
       year: 2018
 
