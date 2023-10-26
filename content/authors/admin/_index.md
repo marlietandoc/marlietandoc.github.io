@@ -77,11 +77,8 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-For 6+ years, I have conducted a range of <strong> research </strong>projects on human cognition, with a focus on understanding <strong>how people learn, process, and remember information. </strong> I am currently a PhD Student at UPenn in the {{< staticref "https://www.schapirolab.org/home" "newtab" >}}Computational Cognitive Neuroscience Lab {{< /staticref >}} where we study these topics by integrating behavioral studies, neuroimaging, and neural networks.
+For 6+ years, I have conducted <strong> research </strong> projects on human behavior and cognition, with a focus on understanding <strong>how people learn, process, and remember information. </strong> I am currently a PhD Student at UPenn in the {{< staticref "https://www.schapirolab.org/home" "newtab" >}}Computational Cognitive Neuroscience Lab {{< /staticref >}} where wI study these topics by integrating behavioral studies, neuroimaging, and neural networks. I have worked in the <strong>video game industry </strong>, at Riot Games, where I led <strong>user research on social behavior</strong> that shaped the design of new social features.
 
-I also have worked in the video game industry, at Riot Games, where I ran research on social behavior in gaming to inform the design of new social features.
-
-I love working as a team to identify research questions, to develop innovative and interdisciplinary research methods, and to uncover data-driven stories that can be shared with others.
 
   {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/marlie_tandoc_resume.pdf" "newtab" >}}resume{{< /staticref >}}  
 
