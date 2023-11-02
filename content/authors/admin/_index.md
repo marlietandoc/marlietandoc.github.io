@@ -21,9 +21,9 @@ organizations:
 bio: ''
 
 # Interests to show in About widget
-interests:
+skills:
   - Quantitative and qualitative research approaches
-  - Wrangling, analyzing, and visualizing data
+  - Data analysis and visualization
   - Transforming data into shareable stories
   - Understanding how people/users think
 
