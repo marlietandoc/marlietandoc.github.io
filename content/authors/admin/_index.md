@@ -22,7 +22,7 @@ bio: ''
 
 # Interests to show in About widget
 skills:
-  - Quantitative and qualitative research approaches
+  - Quantitative and qualitative research 
   - Data analysis and visualization
   - Transforming data into shareable stories
   - Understanding how people/users think
@@ -79,7 +79,7 @@ highlight_name: true
 ---
 For 6+ years, I have led research on <strong>human behavior and cognition</strong>, with a focus on understanding how people learn, process, and remember information. I am currently a PhD Student at UPenn in the {{< staticref "https://www.schapirolab.org/home" "newtab" >}}Computational Cognitive Neuroscience Lab {{< /staticref >}} where I study these topics with behavioral tasks, neuroimaging, and neural networks. 
 
-I also have experience in the <strong>video game industry</strong>, at {{< staticref "https://www.riotgames.com/en" "newtab" >}}Riot Games {{< /staticref >}}, where I led <strong>user research on social behavior</strong> that shaped the design of new social features across multiple games.
+I also have experience in the <strong>video game industry</strong>, at {{< staticref "https://www.riotgames.com/en" "newtab" >}}Riot Games{{< /staticref >}}, where I led <strong>user research on social behavior</strong> that shaped the design of new social features across multiple games.
 
 
   {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/marlie_tandoc_resume.pdf" "newtab" >}}resume{{< /staticref >}}  
