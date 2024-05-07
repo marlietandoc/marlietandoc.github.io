@@ -77,7 +77,7 @@ email: ''
 highlight_name: true
 ---
 
-I am a mixed methods researcher with 7+ years of experience researching <strong>human behavior and psychology</strong>. I am currently a PhD Student at UPenn in the {{< staticref "https://www.schapirolab.org/home" "newtab" >}}Computational Cognitive Neuroscience Lab {{< /staticref >}}. I have also conducted user research in the <strong>gaming industry</strong>, at {{< staticref "https://www.riotgames.com/en" "newtab" >}}Riot Games{{< /staticref >}}, where I researched <strong> complex patterns in user behavior </strong> that drove the design of new social features across multiple products.
+I am a mixed methods researcher with 7+ years of experience researching <strong>human behavior and psychology</strong>. I am currently a PhD Student at UPenn in the {{< staticref "https://www.schapirolab.org/home" "newtab" >}}Computational Cognitive Neuroscience Lab {{< /staticref >}}. I have also conducted user research in the gaming industry, at {{< staticref "https://www.riotgames.com/en" "newtab" >}}Riot Games{{< /staticref >}}, where I researched <strong> complex patterns in user behavior </strong> that drove the design of new features.
 
 Open to work Fall 2024!
 
