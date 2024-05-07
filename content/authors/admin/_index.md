@@ -23,7 +23,7 @@ bio: ''
 # Interests to show in About widget
 interests:
   - Quantitative and qualitative methods
-  - Data analysis and visualization
+  - Data analysis, visualization, statistics
   - Understanding how people/users think
 
 # Education to show in About widget
@@ -76,14 +76,16 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-For 7+ years, I have led research on <strong>human behavior and cognition</strong>, with a focus on understanding how people learn, process, and remember information. I am currently a PhD Student at UPenn in the {{< staticref "https://www.schapirolab.org/home" "newtab" >}}Computational Cognitive Neuroscience Lab {{< /staticref >}} where I study these topics with behavioral tasks, neuroimaging, and neural networks. 
 
-I also have experience in the <strong>video game industry</strong>, at {{< staticref "https://www.riotgames.com/en" "newtab" >}}Riot Games{{< /staticref >}}, where I led <strong>user research on social behavior</strong> that shaped the design of new social features across multiple games.
+**Open to work**
 
+I am a mixed methods researcher with over 7+ years of research experience on <strong>human behavior and psychology</strong>. I am currently a PhD Student at UPenn in the {{< staticref "https://www.schapirolab.org/home" "newtab" >}}Computational Cognitive Neuroscience Lab {{< /staticref >}}.
+
+I have also conducted user research in the <strong>gaming industry</strong>, at {{< staticref "https://www.riotgames.com/en" "newtab" >}}Riot Games{{< /staticref >}}, where I researched <strong> complex social behavior </strong> that drove the design of new features across multiple products.
 
   {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/marlie_tandoc_resume.pdf" "newtab" >}}resume{{< /staticref >}}  
 
-  **Open to work Dec 2024**
+
 
 
 
