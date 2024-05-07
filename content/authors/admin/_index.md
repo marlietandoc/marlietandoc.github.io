@@ -22,9 +22,8 @@ bio: ''
 
 # Interests to show in About widget
 interests:
-  - Quantitative and qualitative research 
+  - Quantitative and qualitative methods
   - Data analysis and visualization
-  - Transforming data into shareable stories
   - Understanding how people/users think
 
 # Education to show in About widget
@@ -83,4 +82,10 @@ I also have experience in the <strong>video game industry</strong>, at {{< stati
 
 
   {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/marlie_tandoc_resume.pdf" "newtab" >}}resume{{< /staticref >}}  
+
+  **Open to work Dec 2024**
+
+
+
+  
 
