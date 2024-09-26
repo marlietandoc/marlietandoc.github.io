@@ -21,10 +21,9 @@ organizations:
 bio: ''
 
 # Interests to show in About widget
-skills:
-  - Quantitative and qualitative research approaches
-  - Data analysis and visualization
-  - Transforming data into shareable stories
+interests:
+  - Quantitative and qualitative methods
+  - Data analysis, visualization, statistics
   - Understanding how people/users think
 
 # Education to show in About widget
@@ -32,7 +31,7 @@ education:
   courses:
     - course: PhD in Psychology
       institution: University of Pennsylvania
-      year: Summer-Fall 2024
+      year: Dec 2024
     - course: MA in Psychology
       institution: University of Pennsylvania
       year: 2020
@@ -77,10 +76,17 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-For 6+ years, I have led research on <strong>human behavior and cognition</strong>, with a focus on understanding how people learn, process, and remember information. I am currently a PhD Student at UPenn in the {{< staticref "https://www.schapirolab.org/home" "newtab" >}}Computational Cognitive Neuroscience Lab {{< /staticref >}} where I study these topics with behavioral tasks, neuroimaging, and neural networks. 
 
-I also have experience in the <strong>video game industry</strong>, at {{< staticref "https://www.riotgames.com/en" "newtab" >}}Riot Games {{< /staticref >}}, where I led <strong>user research on social behavior</strong> that shaped the design of new social features across multiple games.
+I am a mixed methods researcher with 7+ years of experience researching <strong>human behavior and psychology</strong>. I am currently a PhD Student at UPenn in the {{< staticref "https://www.schapirolab.org/home" "newtab" >}}Computational Cognitive Neuroscience Lab{{< /staticref >}}. I have also conducted user research in the gaming industry at {{< staticref "https://www.riotgames.com/en" "newtab" >}}Riot Games{{< /staticref >}} where I researched <strong> complex patterns in user behavior </strong> that drove the design of new features.
 
+Open to work late 2024!
 
   {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/marlie_tandoc_resume.pdf" "newtab" >}}resume{{< /staticref >}}  
+  
+
+
+
+
+
+  
 
