@@ -20,6 +20,8 @@ links:
    url: 'project/example/tandoc_sfn_2022_website.pdf'
  - name: Video (2021)
    url: 'https://youtu.be/l6UkD4C12bA'
+ -name: Poster (2024)
+  url: 'project/example/tandoc_CNS_2024.pdf'
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -38,9 +40,12 @@ In short, to do this, we developed online memory games where participants memori
 In humans, we find that memory biases are strongest for information that is shared across experiences (shared features). In a neural network model trained on the same satellites, we find a strikingly similar effect where the model's internal hidden layer representations are also distorting shared features the most.
 ![Main finding](finding.png)
 
-This shows that both humans and neural network models—both of which are remarkable at learning patterns—show memory errors that emerge from learning these patterns. This makes sense! <strong> If we learn that certain things in the world are related, in our mind we might represent those things similarly, making it more likely we will mix up the details </strong>. We are now testing this directly in the human brain by having people play the same memory games, but while lying inside an MRI scanner.
+This shows that both humans and neural network models—both of which are remarkable at learning patterns—show memory errors that emerge from learning these patterns. This makes sense! <strong> If we learn that certain things in the world are related, in our mind we might represent those things similarly, making it more likely we will mix up the details </strong>. I have recently run research to look at these errors but in human brain by having people play the same memory games, but while lying inside an MRI scanner.
 
 I was fortunate to have the opportunity to present this work as a {{< staticref "project/example/tandoc_sfn_2022_website.pdf" "newtab" >}}talk{{< /staticref >}} at {{< staticref "https://www.sfn.org/meetings/neuroscience-2022" "newtab" >}}Neuroscience '22 in San Diego,{{< /staticref >}} one of the biggest science conferences in the world.
 ![SfN 2022 Talk](sfntalk.jpg)
+
+I also presented a neuroimaging (fMRI) version of this research at an international conference, Cognitive Neuroscience Society, in Toronto, Canada.
+![CNS 2024 poster](cns_poster.jpg)
 
 
