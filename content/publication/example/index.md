@@ -1,5 +1,5 @@
 ---
-title: 'Dividing attention hurts learning in adults but not children'
+title: 'Directing attention shapes learning in adults but not children'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -14,26 +14,28 @@ authors:
 author_notes:
 
 
-date: '2022'
+date: '2024'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-09-10T00:00:00Z'
+publishDate: '2024-09-27T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['3']
+publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In PsyArXiv
+publication: In Psychological Science
 publication_short:
 
-abstract: Across two experiments we show that learning in childhood is fundamentally different from learning in adulthood. For adults, learning suffers when attention is divided. For children, we find that, learning is remarkably the same regardless of whether their attention is divided or not. That is, kids learn information just as well regardless if they were trying to learn it or were doing something else entirely. And while children’s learning is expectedly worse than adults’ when attention is undivided, children learn just as well as adults—and sometimes even better—when attention is divided. These results suggest that a “sponge” may indeed be a good metaphor for learning during childhood. Children appear to take things in regardless of whether they are trying to or not. 
+abstract: Children sometimes learn distracting information better than adults do, perhaps because of the development of selective attention. To understand this potential link, we ask how the learning of children (aged 7-9 years) and the learning of adults differ when information is the directed focus of attention versus when it is not. Participants viewed drawings of common objects and were told to attend to the drawings (Experiment 1: 42 children, 35 adults) or indicate when shapes (overlaid on the drawings) repeated (Experiment 2: 53 children, 60 adults). Afterward, participants identified fragments of these drawings as quickly as possible. Adults learned better than children when directed to attend to the drawings; however, when drawings were task irrelevant, children showed better learning than adults in the first half of the test. And although directing attention to the drawings improved learning in adults, children learned the drawings similarly across experiments regardless of whether the drawings were the focus of the task or entirely irrelevant.
+
+
 
 # Summary. An optional shortened abstract.
-summary: <strong>Why can kids seemingly learn so much without even trying? </strong> By comparing how children and adults learn in the lab, we discover a reason why this could be. We find that children and adults pay attention to and process information in very different ways. <strong> Children pay attention to their environments in a more holistic and open-minded fashion</strong>, thus taking in more information from the worlds around them, kind of like a sponge. On the other hand, adults selectively attend to only one source of information and ignore and filter out everything else. While this can be beneficial for the task-at-hand, it does mean adults are processing and learning less from the environment. Together, this suggests that <strong> children learn so much because they are processing more information than adults.</strong>
+summary: <strong>Kids are amazing learners:</strong) They learn language better than adults do and tend to remember details that an adult would deem irrelevant. (“That koi fish was hairy!?”) These unique strengths in learning could be the consequence of children’s worse attention; it could be that attention just matters less for children’s learning. We asked children (aged 7–9 years) and adults to learn about drawings when the drawings were the focus of attention versus when they were irrelevant to other tasks we asked them to complete, and this is exactly what we found. Unlike adults, who learned better when we asked them to pay attention, we found that children learned information equally well when we asked them to focus on it and when we asked them to do something else entirely. These results suggest that <strong>a sponge </strong> may be a good metaphor for learning during childhood: <strong> Children appear to take things in regardless of whether they are trying to or not. </strong>
 
 tags: []
 
@@ -43,10 +45,12 @@ featured: true
 # Custom links (uncomment lines below)
 links:
  - name: Paper
-   url: https://psyarxiv.com/aqw28
- - name: Code
-   url: https://github.com/marlietandoc/att_div
- - name: Materials
+   url: https://pubmed.ncbi.nlm.nih.gov/39163348/
+ - name: News Article
+   url: https://www.psychologicalscience.org/news/2024-sept-children-attention.html
+  - name: Talkshow Radio
+   url: https://www.iheart.com/podcast/962-the-vassy-kapelos-show-105884244/episode/talk-science-to-me-with-dan-215396089/
+ - name: Code 
    url: https://osf.io/3k2g6/
 url_dataset: ''
 url_poster: ''
