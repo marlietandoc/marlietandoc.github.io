@@ -1,5 +1,6 @@
 ---
-title: 'Distributed representations for human inference'
+title: 'Building integrated representations through interleaved learning
+'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -44,7 +45,7 @@ featured: false
 links:
  - name: Paper
    url: https://psycnet.apa.org/fulltext/2023-74560-001.html
- - name: Code
+ - name: Data/Code
    url: https://github.com/schapirolab/itlblklearning
 
 

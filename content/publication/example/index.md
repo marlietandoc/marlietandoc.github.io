@@ -50,7 +50,7 @@ links:
    url: https://www.psychologicalscience.org/news/2024-sept-children-attention.html
  - name: Talkshow Radio
    url: https://www.iheart.com/podcast/962-the-vassy-kapelos-show-105884244/episode/talk-science-to-me-with-dan-215396089/
- - name: Code 
+ - name: Data/Code 
    url: https://osf.io/3k2g6/
 url_dataset: ''
 url_poster: ''
