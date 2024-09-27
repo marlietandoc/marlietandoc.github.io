@@ -20,7 +20,7 @@ links:
    url: 'project/example/tandoc_sfn_2022_website.pdf'
  - name: Video (2021)
    url: 'https://youtu.be/l6UkD4C12bA'
- -name: Poster (2024)
+ - name: Poster (2024)
   url: 'project/example/tandoc_CNS_2024.pdf'
 
 # Slides (optional).
