@@ -27,7 +27,7 @@ publishDate: '2023-01-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In Journal of Experimental Psychology: General
+publication: In Journal of Experimental Psychology General
 publication_short:
 
 abstract: Inferring relationships that go beyond our direct experience is essential for understanding our environment. This capacity requires either building representations that directly reflect structure across experiences as we encounter them or deriving the indirect relationships across experiences as the need arises. Building structure directly into overlapping representations allows for powerful learning and generalization in neural network models, but building these so-called distributed representations requires inputs to be encountered in interleaved order. We test whether interleaving similarly facilitates the formation of representations that directly integrate related experiences in humans and what advantages such integration may confer for behavior. In a series of behavioral experiments, we present evidence that interleaved learning indeed promotes the formation of representations that directly link across related experiences. As in neural network models, interleaved learning gives rise to fast and automatic recognition of item relatedness, affords efficient generalization, and is especially critical for inference when learning requires statistical integration of noisy information over time. We use the data to adjudicate between several existing computational models of human memory and inference. The results demonstrate the power of interleaved learning and implicate the formation of integrated, distributed representations that support generalization in humans.
