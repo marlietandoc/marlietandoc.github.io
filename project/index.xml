@@ -26,7 +26,7 @@ height="516"
 loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
-&lt;p>This shows that both humans and neural network models—both of which are remarkable at learning patterns—show memory errors that emerge from learning these patterns. This makes sense! &lt;strong> If we learn that certain things in the world are related, in our mind we might represent those things similarly, making it more likely we will mix up the details &lt;/strong>. We are now testing this directly in the human brain by having people play the same memory games, but while lying inside an MRI scanner.&lt;/p>
+&lt;p>This shows that both humans and neural network models—both of which are remarkable at learning patterns—show memory errors that emerge from learning these patterns. This makes sense! &lt;strong> If we learn that certain things in the world are related, in our mind we might represent those things similarly, making it more likely we will mix up the details &lt;/strong>. I have recently run research to look at these errors but in human brain by having people play the same memory games, but while lying inside an MRI scanner.&lt;/p>
 &lt;p>I was fortunate to have the opportunity to present this work as a
 &lt;a href="https://marlietandoc.github.io/project/example/tandoc_sfn_2022_website.pdf" target="_blank">talk&lt;/a>
 at
@@ -41,6 +41,19 @@ one of the biggest science conferences in the world.
 src="https://marlietandoc.github.io/project/example/sfntalk_hu3bc24b6a760c3562e9b71ad8f4ea7671_434987_fe12c11cbbfa26d67258e27fe4a0503c.webp"
 width="706"
 height="760"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;p>I also presented a neuroimaging (fMRI) version of this research at an international conference, Cognitive Neuroscience Society, in Toronto, Canada.
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="CNS 2024 poster" srcset="
+/project/example/cns_poster_hud765bef5b0ee82b12ceb8cf586340444_292956_3a74427e0f23d393cdf1f44c2c8e05a5.webp 400w,
+/project/example/cns_poster_hud765bef5b0ee82b12ceb8cf586340444_292956_5467ee3bd99534488615e2b39c8f7fd8.webp 760w,
+/project/example/cns_poster_hud765bef5b0ee82b12ceb8cf586340444_292956_1200x1200_fit_q100_h2_lanczos.webp 1200w"
+src="https://marlietandoc.github.io/project/example/cns_poster_hud765bef5b0ee82b12ceb8cf586340444_292956_3a74427e0f23d393cdf1f44c2c8e05a5.webp"
+width="760"
+height="570"
 loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p></description></item><item><title>Impacts of indoor air quality on cognitive performance</title><link>https://marlietandoc.github.io/project/iaq/</link><pubDate>Sun, 27 Nov 2022 00:00:00 +0000</pubDate><guid>https://marlietandoc.github.io/project/iaq/</guid><description>&lt;p>&lt;strong>My Role&lt;/strong>: I developed, programmed, and administered 6 cognitive tasks that provide different snapshots of human cognition (e.g. attention, memory, decision-making, etc.). I worked closely with engineers and chemists to design these experiments according to their constraints while also advocating to them for human/user psychology (and how cognition works more broadly).&lt;/p>
