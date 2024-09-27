@@ -48,7 +48,7 @@ links:
    url: https://pubmed.ncbi.nlm.nih.gov/39163348/
  - name: News Article
    url: https://www.psychologicalscience.org/news/2024-sept-children-attention.html
-  - name: Talkshow Radio
+ - name: Talkshow Radio
    url: https://www.iheart.com/podcast/962-the-vassy-kapelos-show-105884244/episode/talk-science-to-me-with-dan-215396089/
  - name: Code 
    url: https://osf.io/3k2g6/
