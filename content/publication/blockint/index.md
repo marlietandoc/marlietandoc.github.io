@@ -1,6 +1,5 @@
 ---
-title: 'Building integrated representations through interleaved learning
-'
+title: 'Building integrated representations through interleaved learning'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
