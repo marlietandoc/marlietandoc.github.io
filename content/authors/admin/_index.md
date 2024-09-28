@@ -31,7 +31,7 @@ education:
   courses:
     - course: PhD in Psychology
       institution: University of Pennsylvania
-      year: April 2025
+      year: Spring 2025
     - course: MA in Psychology
       institution: University of Pennsylvania
       year: 2020
