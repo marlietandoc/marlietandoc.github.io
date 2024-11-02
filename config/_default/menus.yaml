@@ -13,7 +13,7 @@ main:
   - name: Publications
     url: '#featured'
     weight: 50
-  - name: Fun
+  - name: Personal Projects
     url: '#fun_projects'
     weight: 60
   - name: Contact
