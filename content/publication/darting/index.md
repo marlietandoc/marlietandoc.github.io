@@ -1,5 +1,5 @@
 ---
-title: 'Children's Darting (Not Diffuse) Attentional Spotlight Reduces Memory Selectivity for Relevant Content'
+title: 'Childrens Darting (Not Diffuse) Attentional Spotlight Reduces Memory Selectivity for Relevant Content'
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
