@@ -23,10 +23,10 @@ publishDate: '2024-08-01T00:00:00Z'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['3']
+publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: Open Mind
+publication: In Open Mind
 publication_short:
 
 abstract: Some information links our experiences together while other information sets them apart. This poses a challenge for our memory systems, as learning shared features benefits from integration across instances to capture similarities, whereas learning unique features benefits from separation to avoid interference. We leveraged a color memory distortion paradigm to evaluate how we approach this representational tension when rapidly learning a structured novel domain. In two experiments, we trained participants over the course of half an hour on the shared and unique features of categories of novel objects, where each feature had a color drawn from a 2D continuous color space. There were no differences in how accurately participants remembered the color of shared and unique features overall, but when inaccurate, participants misremembered the color of shared (relative to unique) features as more similar to the category’s average color, suggesting that these features become more integrated. We show the same rapid representational warping in a neural network model trained on the same categories, providing an account of how a simple learning process can generate these biases. Together, this work shows how memories for different features, even those within the same object, become rapidly and differentially warped as a function of their roles in a category.
