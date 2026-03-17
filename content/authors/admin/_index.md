@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Marlie Tandoc
+title: Marlie Tandoc, PhD
 
 # Full name (for SEO)
 first_name: Marlie
-last_name: Tandoc
+last_name: Tandoc, PhD
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: PhD candidate,         researcher, psychologist, neuroscientist
+role: Data Analyst,         researcher, psychologist, neuroscientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -31,7 +31,7 @@ education:
   courses:
     - course: PhD in Psychology
       institution: University of Pennsylvania
-      year: Spring 2025
+      year: 2025
     - course: MA in Psychology
       institution: University of Pennsylvania
       year: 2020
@@ -77,9 +77,7 @@ email: ''
 highlight_name: true
 ---
 
-I am a <strong> mixed methods researcher </strong> with <strong>8+ years</strong> of experience researching human <strong>behavior and psychology</strong>. I am currently a PhD Student at UPenn in the {{< staticref "https://www.schapirolab.org/home" "newtab" >}}Computational Cognitive Neuroscience Lab{{< /staticref >}}studying how people <strong>learn and remember</strong>. I have also conducted <strong>user research in the gaming industry </strong> at {{< staticref "https://www.riotgames.com/en" "newtab" >}}Riot Games{{< /staticref >}} where I uncovered complex patterns in user social behavior and drove the design of new features on PC and mobile.
-
-I am currently open to work and seeking UX research or data science jobs! Please contact me for my resume.
+I am a <strong>Data Scientist & Mixed Methods Researcher</strong> hybrid with <strong>8+ years</strong> of experience studying human <strong>behavior and psychology</strong>, with deep expertise in <strong>gaming</strong> and what makes games <strong>click</strong> with players. I am currently a <strong>Data Analyst at Gamesight</strong>, where I analyze creator and social data to uncover <strong>marketing trends in the gaming industry</strong>, helping top video game publishers <strong>promote their games</strong> through data-driven insights. I recently completed my <strong>PhD at UPenn</strong> in the {{< staticref "https://www.schapirolab.org/home" "newtab" >}}Computational Cognitive Neuroscience Lab{{< /staticref >}}, where I studied how people <strong>learn and remember</strong>. I have also conducted <strong>user research in the gaming industry</strong> at {{< staticref "https://www.riotgames.com/en" "newtab" >}}Riot Games{{< /staticref >}}, where I uncovered complex patterns in user social behavior and drove the design of new features on PC and mobile.
 
 
 
